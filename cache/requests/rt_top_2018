@@ -1,0 +1,3564 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" >
+	<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+    <script src="//cdn.optimizely.com/js/594670329.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="referrer" content="no-referrer">
+    <meta name="referrer" content="never">
+
+    <meta name="google-site-verification" content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" />
+
+    <meta name="msvalidate.01" content="034F16304017CA7DCF45D43850915323" />
+
+    <link href="https://staticv2-4.rottentomatoes.com/static/images/iphone/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="https://staticv2-4.rottentomatoes.com/static/images/icons/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://staticv2-4.rottentomatoes.com/static/styles/css/rt_main.css" rel="stylesheet" />
+
+    <script type="application/ld+json" id="jsonLdSchema">{"@context":"http://schema.org","@type":"ItemList","url":"https://www.rottentomatoes.com/top/bestofrt/?year=2018","mainEntityOfPage":"Top 100 Movies of 2018","itemListElement":[{"@type":"ListItem","position":0,"url":"https://www.rottentomatoes.com/m/black_panther_2018/"},{"@type":"ListItem","position":1,"url":"https://www.rottentomatoes.com/m/mission_impossible_fallout/"},{"@type":"ListItem","position":2,"url":"https://www.rottentomatoes.com/m/blackkklansman/"},{"@type":"ListItem","position":3,"url":"https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse/"},{"@type":"ListItem","position":4,"url":"https://www.rottentomatoes.com/m/roma_2018/"},{"@type":"ListItem","position":5,"url":"https://www.rottentomatoes.com/m/a_star_is_born_2018/"},{"@type":"ListItem","position":6,"url":"https://www.rottentomatoes.com/m/a_quiet_place_2018/"},{"@type":"ListItem","position":7,"url":"https://www.rottentomatoes.com/m/eighth_grade/"},{"@type":"ListItem","position":8,"url":"https://www.rottentomatoes.com/m/can_you_ever_forgive_me/"},{"@type":"ListItem","position":9,"url":"https://www.rottentomatoes.com/m/the_favourite_2018/"},{"@type":"ListItem","position":10,"url":"https://www.rottentomatoes.com/m/paddington_2/"},{"@type":"ListItem","position":11,"url":"https://www.rottentomatoes.com/m/leave_no_trace/"},{"@type":"ListItem","position":12,"url":"https://www.rottentomatoes.com/m/incredibles_2/"},{"@type":"ListItem","position":13,"url":"https://www.rottentomatoes.com/m/call_me_by_your_name/"},{"@type":"ListItem","position":14,"url":"https://www.rottentomatoes.com/m/widows_2018/"},{"@type":"ListItem","position":15,"url":"https://www.rottentomatoes.com/m/shoplifters/"},{"@type":"ListItem","position":16,"url":"https://www.rottentomatoes.com/m/wont_you_be_my_neighbor/"},{"@type":"ListItem","position":17,"url":"https://www.rottentomatoes.com/m/crazy_rich_asians/"},{"@type":"ListItem","position":18,"url":"https://www.rottentomatoes.com/m/the_hate_u_give/"},{"@type":"ListItem","position":19,"url":"https://www.rottentomatoes.com/m/phantom_thread/"},{"@type":"ListItem","position":20,"url":"https://www.rottentomatoes.com/m/sorry_to_bother_you_2018/"},{"@type":"ListItem","position":21,"url":"https://www.rottentomatoes.com/m/avengers_infinity_war/"},{"@type":"ListItem","position":22,"url":"https://www.rottentomatoes.com/m/ant_man_and_the_wasp/"},{"@type":"ListItem","position":23,"url":"https://www.rottentomatoes.com/m/isle_of_dogs_2018/"},{"@type":"ListItem","position":24,"url":"https://www.rottentomatoes.com/m/first_man/"},{"@type":"ListItem","position":25,"url":"https://www.rottentomatoes.com/m/i_tonya/"},{"@type":"ListItem","position":26,"url":"https://www.rottentomatoes.com/m/the_post/"},{"@type":"ListItem","position":27,"url":"https://www.rottentomatoes.com/m/the_death_of_stalin/"},{"@type":"ListItem","position":28,"url":"https://www.rottentomatoes.com/m/hereditary/"},{"@type":"ListItem","position":29,"url":"https://www.rottentomatoes.com/m/the_rider/"},{"@type":"ListItem","position":30,"url":"https://www.rottentomatoes.com/m/minding_the_gap/"},{"@type":"ListItem","position":31,"url":"https://www.rottentomatoes.com/m/the_old_man_and_the_gun/"},{"@type":"ListItem","position":32,"url":"https://www.rottentomatoes.com/m/three_identical_strangers/"},{"@type":"ListItem","position":33,"url":"https://www.rottentomatoes.com/m/mcqueen/"},{"@type":"ListItem","position":34,"url":"https://www.rottentomatoes.com/m/a_fantastic_woman/"},{"@type":"ListItem","position":35,"url":"https://www.rottentomatoes.com/m/summer_1993/"},{"@type":"ListItem","position":36,"url":"https://www.rottentomatoes.com/m/free_solo/"},{"@type":"ListItem","position":37,"url":"https://www.rottentomatoes.com/m/first_reformed/"},{"@type":"ListItem","position":38,"url":"https://www.rottentomatoes.com/m/burning_2018/"},{"@type":"ListItem","position":39,"url":"https://www.rottentomatoes.com/m/loveless_2018/"},{"@type":"ListItem","position":40,"url":"https://www.rottentomatoes.com/m/searching_2018/"},{"@type":"ListItem","position":41,"url":"https://www.rottentomatoes.com/m/cold_war_2018/"},{"@type":"ListItem","position":42,"url":"https://www.rottentomatoes.com/m/shirkers/"},{"@type":"ListItem","position":43,"url":"https://www.rottentomatoes.com/m/tea_with_the_dames/"},{"@type":"ListItem","position":44,"url":"https://www.rottentomatoes.com/m/border_2018/"},{"@type":"ListItem","position":45,"url":"https://www.rottentomatoes.com/m/the_tale/"},{"@type":"ListItem","position":46,"url":"https://www.rottentomatoes.com/m/wildlife_2018/"},{"@type":"ListItem","position":47,"url":"https://www.rottentomatoes.com/m/annihilation/"},{"@type":"ListItem","position":48,"url":"https://www.rottentomatoes.com/m/the_guilty_2018/"},{"@type":"ListItem","position":49,"url":"https://www.rottentomatoes.com/m/bumblebee/"},{"@type":"ListItem","position":50,"url":"https://www.rottentomatoes.com/m/mandy_2018/"},{"@type":"ListItem","position":51,"url":"https://www.rottentomatoes.com/m/hannah_gadsby_nanette/"},{"@type":"ListItem","position":52,"url":"https://www.rottentomatoes.com/m/deadpool_2/"},{"@type":"ListItem","position":53,"url":"https://www.rottentomatoes.com/m/rbg/"},{"@type":"ListItem","position":54,"url":"https://www.rottentomatoes.com/m/blindspotting/"},{"@type":"ListItem","position":55,"url":"https://www.rottentomatoes.com/m/you_were_never_really_here/"},{"@type":"ListItem","position":56,"url":"https://www.rottentomatoes.com/m/love_simon/"},{"@type":"ListItem","position":57,"url":"https://www.rottentomatoes.com/m/custody_2018/"},{"@type":"ListItem","position":58,"url":"https://www.rottentomatoes.com/m/zama/"},{"@type":"ListItem","position":59,"url":"https://www.rottentomatoes.com/m/in_between_2018/"},{"@type":"ListItem","position":60,"url":"https://www.rottentomatoes.com/m/the_cakemaker/"},{"@type":"ListItem","position":61,"url":"https://www.rottentomatoes.com/m/ralph_breaks_the_internet/"},{"@type":"ListItem","position":62,"url":"https://www.rottentomatoes.com/m/science_fair/"},{"@type":"ListItem","position":63,"url":"https://www.rottentomatoes.com/m/foxtrot_2018/"},{"@type":"ListItem","position":64,"url":"https://www.rottentomatoes.com/m/oh_lucy_2018/"},{"@type":"ListItem","position":65,"url":"https://www.rottentomatoes.com/m/the_ballad_of_buster_scruggs/"},{"@type":"ListItem","position":66,"url":"https://www.rottentomatoes.com/m/night_comes_on/"},{"@type":"ListItem","position":67,"url":"https://www.rottentomatoes.com/m/sweet_country_2018/"},{"@type":"ListItem","position":68,"url":"https://www.rottentomatoes.com/m/hale_county_this_morning_this_evening/"},{"@type":"ListItem","position":69,"url":"https://www.rottentomatoes.com/m/ryuichi_sakamoto_coda/"},{"@type":"ListItem","position":70,"url":"https://www.rottentomatoes.com/m/rodents_of_unusual_size/"},{"@type":"ListItem","position":71,"url":"https://www.rottentomatoes.com/m/marlina_the_murderer_in_four_acts/"},{"@type":"ListItem","position":72,"url":"https://www.rottentomatoes.com/m/pick_of_the_litter/"},{"@type":"ListItem","position":73,"url":"https://www.rottentomatoes.com/m/leaning_into_the_wind/"},{"@type":"ListItem","position":74,"url":"https://www.rottentomatoes.com/m/tully_2018/"},{"@type":"ListItem","position":75,"url":"https://www.rottentomatoes.com/m/thunder_road_2018/"},{"@type":"ListItem","position":76,"url":"https://www.rottentomatoes.com/m/i_am_not_a_witch/"},{"@type":"ListItem","position":77,"url":"https://www.rottentomatoes.com/m/western_2018/"},{"@type":"ListItem","position":78,"url":"https://www.rottentomatoes.com/m/hearts_beat_loud/"},{"@type":"ListItem","position":79,"url":"https://www.rottentomatoes.com/m/to_all_the_boys_ive_loved_before/"},{"@type":"ListItem","position":80,"url":"https://www.rottentomatoes.com/m/revenge_2018/"},{"@type":"ListItem","position":81,"url":"https://www.rottentomatoes.com/m/private_life_2018/"},{"@type":"ListItem","position":82,"url":"https://www.rottentomatoes.com/m/filmworker/"},{"@type":"ListItem","position":83,"url":"https://www.rottentomatoes.com/m/beast/"},{"@type":"ListItem","position":84,"url":"https://www.rottentomatoes.com/m/lean_on_pete/"},{"@type":"ListItem","position":85,"url":"https://www.rottentomatoes.com/m/on_her_shoulders/"},{"@type":"ListItem","position":86,"url":"https://www.rottentomatoes.com/m/dark_money/"},{"@type":"ListItem","position":87,"url":"https://www.rottentomatoes.com/m/1985_2018/"},{"@type":"ListItem","position":88,"url":"https://www.rottentomatoes.com/m/blaze_2018/"},{"@type":"ListItem","position":89,"url":"https://www.rottentomatoes.com/m/support_the_girls/"},{"@type":"ListItem","position":90,"url":"https://www.rottentomatoes.com/m/good_manners/"},{"@type":"ListItem","position":91,"url":"https://www.rottentomatoes.com/m/the_endless/"},{"@type":"ListItem","position":92,"url":"https://www.rottentomatoes.com/m/capernaum/"},{"@type":"ListItem","position":93,"url":"https://www.rottentomatoes.com/m/american_animals/"},{"@type":"ListItem","position":94,"url":"https://www.rottentomatoes.com/m/cam/"},{"@type":"ListItem","position":95,"url":"https://www.rottentomatoes.com/m/teen_titans_go_to_the_movies/"},{"@type":"ListItem","position":96,"url":"https://www.rottentomatoes.com/m/creed_ii/"},{"@type":"ListItem","position":97,"url":"https://www.rottentomatoes.com/m/colette_2018/"},{"@type":"ListItem","position":98,"url":"https://www.rottentomatoes.com/m/the_wolf_house/"},{"@type":"ListItem","position":99,"url":"https://www.rottentomatoes.com/m/outside_in_2018/"}]}</script>
+
+    <script>
+    var dataLayer = dataLayer || [];
+    </script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>
+require.config({
+    baseUrl: "https://staticv2-4.rottentomatoes.com/static/",
+    waitSeconds: 60,
+    config: {
+        text: {
+            useXhr:function(url, protocol, hostname, port) {
+                return true;
+            }
+        }
+    },
+    paths: {
+        facebook : "//connect.facebook.net/en_US/all",
+        backbone: "//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.1/backbone-min",
+        bootstrap: "//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min",
+        device: "//cdnjs.cloudflare.com/ajax/libs/device.js/0.2.7/device.min",
+        marionette: "//cdnjs.cloudflare.com/ajax/libs/backbone.marionette/2.4.3/backbone.marionette.min",
+        moment: "//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min",
+        googleMapsApis: "//maps.googleapis.com/maps/api/js?key=AIzaSyD8S2D8G9CHplbCDFxKoHSnNJhb6o_h1Fo&libraries=places",
+        slick: "//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min",
+        text: "//cdnjs.cloudflare.com/ajax/libs/require-text/2.0.12/text.min",
+        typeahead: "//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.5/typeahead.bundle.min",
+        underscore: "//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min",
+        select2 : "//cdnjs.cloudflare.com/ajax/libs/select2/3.5.2/select2.min",
+        jwplayer: "js/lib/jwplayer-7.4.3/jwplayer",
+        domReady: "//cdnjs.cloudflare.com/ajax/libs/require-domReady/2.0.1/domReady.min",
+        "js-cookie" : "//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.1.1/js.cookie.min",
+        "jquery-ui": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min",
+        scrollTo: "//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.14/jquery.scrollTo.min",
+        nouislider: "//cdnjs.cloudflare.com/ajax/libs/noUiSlider/9.0.0/nouislider.min",
+        swiper: "js/lib/swiper.jquery.min",
+        hammer: "//cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.4/hammer.min",
+        rsvp: "//cdnjs.cloudflare.com/ajax/libs/rsvp/3.3.3/rsvp.min",
+        masonry: "//cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min",
+        dotdotdot: "//cdnjs.cloudflare.com/ajax/libs/jQuery.dotdotdot/1.7.4/jquery.dotdotdot.min",
+        readmore: "//cdnjs.cloudflare.com/ajax/libs/Readmore.js/2.0.5/readmore.min",
+        omniture: "dist/tracking/omniture.min",
+        "star-rating": "js/lib/star-rating/star-rating.min",
+        schema : "js/utils/schema",
+        rtClamp: "dist/utils/rtclamp.min",
+        vendor: 'dist/vendor',
+        'common-pure-react': 'dist/common-pure-react',
+        'common-react-redux': 'dist/common-react-redux',
+        'episode-list': 'dist/episode-list',
+        'friend-ratings': 'dist/friend-ratings',
+        'fullscreen-search': 'dist/fullscreen-search',
+        'location-utils': 'dist/location-utils',
+        'media-browser': 'dist/media-browser',
+        'photos-carousel': 'dist/photos-carousel-modal',
+        'photo-gallery': 'dist/photo-gallery',
+        'photo-rail': 'dist/photo-rail',
+        'rating-widget': 'dist/rating-widget',
+        'search-results': 'dist/search-results',
+        'videos-carousel': 'dist/videos-carousel',
+        recommendations: 'dist/recommendations',
+        'box-office': 'dist/box-office',
+        bezier: "js/bezierEasing",
+        profanityFilter: 'js/lib/profanityFilter',
+    },
+    // Note: jquery, underscore and backbone all support amds natively. no need for shim.
+    shim: {
+        "photos-carousel": {
+            deps: ["common-pure-react"]
+        },
+        "videos-carousel": {
+            deps: ["common-pure-react"]
+        },
+        "fullscreen-search": {
+            deps: ["common-pure-react"]
+        },
+        "location-utils": {
+            deps: ["common-pure-react"]
+        },
+        "friend-ratings": {
+            deps: ["common-pure-react"]
+        },
+        'rating-widget': {
+            deps: ["common-pure-react"]
+        },
+        'recommendations': {
+            deps: ["common-pure-react"]
+        },
+        'photo-rail': {
+            deps: ["common-pure-react"]
+        },
+        'search-results': {
+            deps: ["common-react-redux"]
+        },
+        'episode-list': {
+            deps: ["common-react-redux"]
+        },
+        'media-browser': {
+            deps: ["common-react-redux"]
+        },
+        "photo-gallery": {
+            deps: ["common-react-redux"]
+        },
+        'box-office': {
+            deps: ['common-react-redux']
+        },
+        'common-pure-react': {
+            deps: ["vendor"]
+        },
+        'common-react-redux': {
+            deps: ["vendor"]
+        },
+        "bootstrap" : {
+        	deps: ["jquery"]
+        },
+        "slick": {
+            deps: ["jquery"],
+            exports: "slick"
+        },
+        "text": {
+            deps: ["backbone"]
+        },
+        "marionette": {
+            deps: ["jquery", "underscore", "backbone"],
+            exports: "Marionette"
+        },
+		"jwplayer": {
+            exports: "jwplayer"
+        },
+        "select2" : {
+            deps: ["jquery"]
+        },
+        "domReady!": {
+            exports : "domReady!"
+        },
+        "facebook" : {
+            exports: "FB"
+        },
+        "scrollTo" : {
+            deps: ["jquery"]
+        },
+        "touchSwipe": {
+            deps: ["jquery"]
+        },
+        "typeahead": {
+            deps: ["jquery", "bootstrap"],
+            exports: "typeahead"
+        },
+        "swiper": {
+            deps: ["jquery"]
+        },
+        "nouislider": {
+            deps: ["jquery"]
+        },
+        "readmore": {
+            deps: ["jquery"]
+        },
+        "dotdotdot": {
+            deps: ["jquery"]
+        },
+        "jquery-ui": {
+            deps: ["jquery"]
+        }
+    }
+});
+</script>
+<script>
+define("globals", ["jquery", "underscore"], function($, _) {
+    _.templateSettings = {
+        interpolate: /\<\@\=(.+?)\@\>/gim,
+        evaluate: /\<\@(.+?)\@\>/gim
+    };
+    var RT = RT || {};
+    RT.Host = 'https://www.rottentomatoes.com';
+    RT.EditorialHost = 'https://editorial.rottentomatoes.com';
+    RT.ThePlatformAccountPid = 'HNK2IC';
+    RT.ThePlatformPlayerId = 'vPUdRgYktZD4';
+    RT.ThePlatformAccountId = '2474312077';
+    RT.LegacyPagesHost = 'https://www.rottentomatoes.com';
+    RT.PrivateApiFrontendHost = 'https://www.rottentomatoes.com';
+    RT.PrivateApiV2FrontendHost = 'https://www.rottentomatoes.com';
+    RT.ForumHost = 'https://forum.rottentomatoes.com';
+    RT.EditorialImageHost = 'https://editorial.rottentomatoes.com';
+    RT.StaticHost = 'https://staticv2-4.rottentomatoes.com';
+    RT.ShowtimesHost = 'https://api.flixster.com';
+    RT.NewsThrottle = {
+        homepage: false,
+        celebrity: false,
+        newsAndFeature: false,
+        episode: false,
+        season: false,
+        header: false,
+        movie: "Tomatometer" // State: Off, Tomatometer, Limited, On. Off will not throttle
+    };
+    RT.JwplayerKey='ojO88EQl2m4RQJPsd3tOAYLZOlgjKpMliIQMpA==';
+    RT.loginInit = $.Deferred();
+    RT.loginViewLoad = $.Deferred();
+    RT.fb_ready = $.Deferred();
+    RT.RecaptchaDeferred = $.Deferred();
+    RT.RecaptchaFPDeferred = $.Deferred();
+    RT.adPromises = [];
+    return RT;
+});
+</script>
+<script>
+    
+        var mpscall = {};
+        var BK = {};
+
+        mpscall = {
+            "site":"rottentomatoes-web",
+            "type":"best_of", // page or content type
+            "cat":"movie|best_of", // section hierarchy (pipe separated)
+            "field[env]":"prod" // execution environment
+        };
+
+        BK.PageName = "";
+        BK.SiteSection = "movie";
+
+        require(["js-cookie"], function(Cookies){
+            var user_id_key = "auth_user";
+            var userId = Cookies.get(user_id_key);
+            if (userId) {
+                BK.FlixsterUID=userId;
+            }
+        });
+
+        
+
+        var mpsopts = {
+            "host":"mps.nbcuni.com",
+            "updatecorrelator":true
+        }
+
+        var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now();mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'<div id="'+slotid+'" class="mps-wrapper" data-mps-fill-slot="'+adunit+'"></div>'};(function(){head=document.head||document.getElementsByTagName("head")[0],mpsload=document.createElement("script");mpsload.src="//"+mpsopts.host+"/fetch/ext/load-"+mpscall.site+".js?nowrite=2";mpsload.id="mps-load";head.insertBefore(mpsload,head.firstChild)})();
+    
+    flix_user_id = "";
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+    {n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+    ;if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1147905821962466');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=1147905821962466&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+    var _sf_async_config = _sf_async_config || {};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 64558; // ACCOUNT NUMBER
+    _sf_async_config.domain = 'rottentomatoes.com'; // DOMAIN
+    _sf_async_config.flickerControl = false;
+    _sf_async_config.useCanonical = true;
+    /** CONFIGURATION END **/
+    var _sf_startpt = (new Date()).getTime();
+</script>
+<script async src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+
+<script src="//assets.adobedtm.com/a5fa26c3da5356c4d77ae8244dc4eb5096e2f4b0/satelliteLib-cbce2cb5d7b476a55d4d651acf340e0592b4f00c.js"></script>
+    <script>console.info("require:" + window.performance.now());</script>
+
+    <script>
+    function endsWith(str, suffix) {
+        return str.indexOf(suffix, str.length - suffix.length) !== -1;
+    }
+
+    //--Ad Unit Loaded (called for each ad loaded)
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.adload=mps._queue.adload||[];
+    mps._queue.adload.push(function(eo) {
+        window.console && console.log('**** AD LOADED: '+eo._mps.adslot);
+        if (!eo.isEmpty) {
+            console.log('MPS Slot Rendered: ' + eo.slot.getAdUnitPath() + " - " + eo.size + ', Creative Id: ' + eo.creativeId + ', Line Item Id: ' + eo.lineItemId +  ', Slot name: ' + eo._mps._slot);
+            var slotName = eo._mps._slot;
+            if ("interstitial" === slotName || "minterstitial" === slotName) {
+                require(["js-cookie"], function(Cookies){
+                    var pageViewCount = "pvc";
+                    var pageViewCountCookieValue = Cookies.get(pageViewCount);
+                    var date = new Date();
+                    var minutes = 60;
+                    date.setTime(date.getTime() + (minutes * 60 * 1000));
+                    if (pageViewCountCookieValue == null) {
+                        Cookies.set(pageViewCount, "1", {path: '/', expires : date});
+                    }
+                });
+            }
+
+            if ("topbanner" === slotName) {
+                var leaderboardHeight = eo.size[1];
+                if (leaderboardHeight > 50){
+                    
+                        $('#header-main').removeClass('header_main_scroll');
+                        $('#header-main').css('margin-top', leaderboardHeight + 10);
+                        var bannerEl = $('#header_and_leaderboard');
+                        bannerEl.addClass("header_and_leaderboard_scroll");
+                    
+                    if (leaderboardHeight < 90){
+                        $('.leaderboard_wrapper').css('min-height', leaderboardHeight);
+                    }
+                    $("#top_leaderboard_wrapper").animate({height:(leaderboardHeight+10)},1000);
+                }
+            }
+
+            if ("trendinggraphic" === slotName) {
+                //Hide Trending bar social section
+                $("#trending_bar_social").hide();
+                //Removing padding for trending bar ad
+                $(".trendingBar>.trendingEl").css("padding","0px");
+                $("#trending_bar_ad").show();
+            }
+
+            if ("tomatometer" === slotName) {
+                if (eo.size[0] == 524 && eo.size[1] == 40) {
+                    //Increase score panel margin
+                    $("#scorePanel").css("margin-bottom", "20px");
+                }
+                // Only show Tomatometer Sponsorship div if rendered
+                $("#tomatometer_sponsorship_ad").show();
+            }
+        }
+    });
+</script>
+
+<script>console.info("gpt-global:" + window.performance.now());</script>
+
+    <script>
+        var dataLayer = dataLayer || [];
+        dataLayer.push({ 'viewportType': window.innerWidth >= 768 ? "desktop_view" : "mobile_view" });
+        dataLayer.push({ 'rtVersion' : 2.0 });
+    </script>
+    <script>
+    require(["jquery"], function($) {
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start' : new Date().getTime(),
+                event : 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer'? '&l='
+                    + l
+                    : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', "GTM-TW7ZFZ");
+    });
+    </script>
+    <script>console.info("gtm:" + window.performance.now());</script>
+
+    <title>Top 100 Movies of 2018 - Rotten Tomatoes</title>
+        <meta name="description" content="A Tomatometer ranked list of the best movies in 2018. See The Top 100 movies from 2018, according to the critics">
+        <link href="https://www.rottentomatoes.com/top/bestofrt/" rel="canonical" />
+<link rel="stylesheet" href="https://staticv2-4.rottentomatoes.com/static/styles/css/top.css" />
+<script>console.info("after page specific head tag content:" + window.performance.now());</script>
+
+    <script>console.info("bottom of head tag: " + window.performance.now());</script>
+    <script type="text/javascript">
+        var onRecaptchaCallback = function() {
+            require(["jquery", "globals"], function($, RT) {
+                RT.RecaptchaDeferred.resolve();
+                RT.RecaptchaFPDeferred.resolve();
+            });
+        };
+    </script>
+    <script>
+        require([
+            "globals",
+            "https://staticv2-4.rottentomatoes.com/static/dist/app/models/LoginModel.min.js",
+        ], function(RT, LoginModel) {
+            RT.loginModel = new LoginModel();
+            RT.loginInit.resolve();
+        }.bind(this));
+    </script>
+</head>
+<body class="body  " style="min-height:800px">
+    <script>console.info("body-top:" + window.performance.now());</script>
+    <div id="emptyPlaceholder"></div> <div id="fb-root"></div>
+<script>
+require(['jquery', 'facebook', 'globals'], function($, FB, RT) {
+    FB.init({
+        appId: '326803741017',
+        version : 'v2.9',
+        status: true,
+        cookie: true,
+        xfbml: true
+    });
+
+    // FB scripts ready. (Does not imply logged in)
+    RT.fb_ready.resolve();
+});
+</script><script>console.info("facebook:" + window.performance.now());</script>
+
+    <!-- TODO: Put in long term targeting fix -->
+    <script>
+            if (Math.max(document.documentElement.clientWidth, window.innerWidth || 0) > 768) {
+                //Leaderboard viewability scroll only loaded for desktop
+                require(["https://staticv2-4.rottentomatoes.com/static/dist/jspjs/leaderboardViewability.jsp.min.js"]);
+            }
+        </script>
+    <div id="navMenu" class="modal fade" role="dialog" aria-labelledby="navMenu">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span class="glyphicon glyphicon-remove" />
+                </button>
+                <div class="pull-left">
+                    <ul class="list-inline social">
+                        <li><a id="header-facebook-social-link" class="unstyled fontelloIcon icon-facebook-squared" href="http://www.facebook.com/rottentomatoes" target="_blank"></a></li>
+                        <li><a id="header-twitter-social-link" class="unstyled fontelloIcon icon-twitter" href="http://twitter.com/rottentomatoes" target="_blank"></a></li>
+                    </ul>
+                </div>
+                <div class="items">
+                    <div class="item">
+                        <a class="homeTab unstyled navLink fullLink" href="/">
+                            Home
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="boxofficeTab unstyled navLink fullLink" href="/lists/theater/">
+                            Top Box Office
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="theatersTab unstyled navLink fullLink" href="/theaters/">
+                            Tickets &amp; Showtimes
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a class="dvdTab unstyled navLink fullLink" href="/lists/dvd/">
+                            DVD &amp; Streaming
+                        </a>
+                    </div>
+                    <div class="item">
+                            <a class="tvTab unstyled navLink fullLink" href="/lists/tv/">
+                                TV
+                            </a>
+                        </div>
+                    <div class="item">
+                        <a class="newsTab unstyled navLink fullLink" href="https://editorial.rottentomatoes.com">
+                            News
+                        </a>
+                    </div>
+                    </div>
+                <div class="loginArea"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="body_main container">
+        <div id="header_and_leaderboard">
+            <div id="top_leaderboard_wrapper" class="leaderboard_wrapper ">
+        <div id="top_leaderboard_helper" class="leaderboard_helper">
+            <div id="leaderboard_top_ad"></div>
+            <script>
+                //--RESPONSIVE AD SWITCHING (DIFFERENT CONTAINERS)
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() =='0') { //MOBILE
+                        mps.insertAd('#leaderboard_top_ad','mbanner');
+                    } else { //DESKTOP or TABLET
+                        mps.insertAd('#leaderboard_top_ad','topbanner');
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+
+        <nav id="header-main" class="header_main container">
+    <div id="navbar" class="navbar navbar-rt" role="navigation">
+        <div class="navbar-header pull-right hidden-xs">
+            <div class="header_links">
+                <a id="header-whats-the-tomatometer" href="/about#whatisthetomatometer">What's the Tomatometer<sup>&reg;</sup>?</a>
+                <a id="header-top-bar-critics" href="/critics/">Critics</a>
+                <div id="headerUserSection" style="display: inline-block;"></div>
+            </div>
+        </div>
+        <div id="header_brand_column" class="col-sm-13 col-full-xs">
+            <div class="hidden-xs desktopNav">
+                <div id="navbar_brand" class="navbar-brand">
+                    <a id="header-rt-logo" href="/"><img id="original_rt_logo" src="https://staticv2-4.rottentomatoes.com/static/images/logos/rtlogo.png" /></a>
+                    <div id="new_logo_ad" style="display:none;"></div>
+<script>
+    var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+    mps._queue.gptloaded.push(function() {
+        if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+            mps.rt.insertlogo('#new_logo_ad', 'ploc=rtlogo;');
+        }
+    });
+</script>
+
+</div>
+
+                <div id="desktop-search-root">
+                    <form action="/search/" method="get">
+                        <div class="navbar-searchbox main">
+                            <div class="input-group">
+                                <input name="search" type="text" class="form-control" placeholder="Search movies, TV, actors, more..." name="srch-term" id="search-term">
+                                <div class="input-group-btn">
+                                    <button type="submit" class="btn btn-default searchBtn">
+                                        <em class="glyphicon glyphicon-search"></em>
+                                    </button>
+                                </div>
+                                <div class="navbar-close">
+                                    <button type="button" class="btn btn-default">
+                                        <span class="glyphicon glyphicon-remove" />
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <script>
+                    (function() {
+                        require(["fullscreen-search"], function(fullscreenSearch) {
+                            fullscreenSearch.mountDropdown(document.getElementById('desktop-search-root'));
+                        });
+                    })();
+                </script>
+            </div>
+
+            <div class="visible-xs mobileNav">
+                <div>
+                    <a id="mobile-search-button">
+                        <button class="pull-right navbar-button searchButton">
+                            <em class="glyphicon glyphicon-search white"></em>
+                        </button>
+                    </a>
+                    <script>
+                        (function() {
+                            require(["fullscreen-search"], function(fullscreenSearch) {
+                                fullscreenSearch.attach(document.getElementById('mobile-search-button'));
+                            });
+                        })();
+                    </script>
+                </div>
+
+                <div class="navbar-brand">
+                        <a id="header-rt-logo" href="/"> <img src="https://staticv2-4.rottentomatoes.com/static/images/logos/rtlogo.png" /></a>
+                    </div>
+                    <div id="mobile-nav">
+                        <div class="mob-nav-bottom clearfix">
+                            <ul id="nav-list" class="nav-list">
+                                <li class="nav-item">
+                                    <a href="/"><i class="fontelloIcon icon-home"></i>Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/browse/in-theaters/"><i class="fontelloIcon icon-boxoffice"></i>Box Office</a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="/browse/tv-list-2/"><i class="fontelloIcon icon-tv2"></i>TV</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/browse/top-dvd-streaming/"><i class="fontelloIcon icon-redeem"></i>DVD</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a id="menu-btn" class="menu-btn" href="javascript:void(0)">
+                                        <i class=" fontelloIcon icon-more"></i>MORE
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div id="mobile-nav-overlay" class="mobile-nav-overlay">
+                            <!--mobile dropdown-->
+                            <ul class="mobile-menu-panel">
+                                <li class="nav-item"><a href="https://editorial.rottentomatoes.com">News</a></li>
+                                <li class="nav-item clearfix d-block">
+                                    <div class="login-signup-box pull-left">
+                                        <a id="mobile-signup-btn" data-toggle="modal" data-target="#signup" class="signupLink login btn-login-signup">SIGN UP</a>
+                                        <a id="mobile-login-btn" data-toggle="modal" data-target="#login" class="loginLink login btn-login-signup">LOG IN</a>
+                                    </div>
+                                    <div class="social-media-box pull-right">
+                                        <a href="https://www.facebook.com/rottentomatoes">
+                                            <i class="fontelloIcon icon-facebook-squared" aria-hidden="true"></i>
+                                        </a>
+                                        <a href="https://twitter.com/rottentomatoes">
+                                            <i class="fontelloIcon icon-twitter" aria-hidden="true"></i>
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                            <!--mobile dropdown end-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div id="menu" class="navbar-nav col-sm-11 hidden-xs">
+    <ul class="list-inline">
+        <li class="menuHeader center dropdown noSpacing">
+            <a id="movieMenu" role="button" class="h2 white" href="/browse/opening/">
+                Movies & DVDs<span class="fontelloIcon icon-down-dir"></span>
+            </a>
+            <div id="movie-menu" class="dropdown-menu" role="menu" aria-labelledby="movieMenu">
+                <div class="row-sameColumnHeight">
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">Movies in Theaters</h2>
+                            <ul class="list-unstyled" id="header-movies-in-theaters">
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/opening/">Opening This Week</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/in-theaters/">Top Box Office</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/upcoming/">Coming Soon to Theaters</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/box-office/">Weekend Earnings</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/cf-in-theaters/">Certified Fresh Movies</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <a class="unstyled articleLink" href="/dvd/"><h2 class="title">On Dvd &amp; Streaming</h2></a>
+                            <ul class="list-unstyled" id="header-on-dvd-streaming">
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=fandango_now">FandangoNOW</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=netflix_iw">Netflix Streaming</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=itunes">iTunes</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/?services=amazon_prime;amazon">Amazon and Amazon Prime</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/top-dvd-streaming/">Top DVD &amp; Streaming</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-new/">New Releases</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-upcoming/">Coming Soon to DVD</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/cf-dvd-streaming-all/">Certified Fresh Movies</a>
+                                </li>
+                                <li>
+                                    <a class="unstyled articleLink" href="/browse/dvd-streaming-all/">Browse All</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-3 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">More</h2>
+                            <ul class="list-unstyled" id="header-movies-more">
+                                <li><a class="unstyled articleLink" href="/top/">Top Movies</a></li>
+                                <li><a class="unstyled articleLink" href="/trailers/">Trailers</a></li>
+                                <li><a class="unstyled articleLink" href="https://forum.rottentomatoes.com">Forums</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-11 subnav">
+                        <h2 class="title">Certified Fresh Picks</h2>
+                            <div class="freshPicks inDropdown" id="header-certified-fresh-picks">
+                                <div class="cfpItem">
+    <a href="/m/shirley_2020" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/gaOg6MR0RSSz7W8xNlLcKp8mcyI=/fit-in/278x400/v1.bTsxMzQyMzQzNDtqOzE4NjA1OzEyMDA7MTM4NzsyMDQ4" />
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">87%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Shirley</p>
+    </a>
+</div><div class="cfpItem">
+    <a href="/m/da_5_bloods" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/Rc8EBKrib2FR0EKpf9cs5ehe5cw=/fit-in/278x400/v1.bTsxMzQyMjIyODtqOzE4NjA1OzEyMDA7Mzc1OzU1Ng" />
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">92%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">Da 5 Bloods</p>
+    </a>
+</div><div class="cfpItem">
+    <a href="/m/on_the_record" class="unstyled articleLink cfpLinks">
+        <p class="topText bold cfp-item-header"></p>
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/ILTg9HUYqaA8FnYwxwrvUsACkzU=/fit-in/278x400/v1.bTsxMzQzMjUyMTtqOzE4NjA1OzEyMDA7MTA4MDsxMzUw" />
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">99%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">On the Record</p>
+    </a>
+</div></div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="menuHeader center dropdown noSpacing dropdown-toggle">
+            <a id="tvMenu" class="h2" href="/top-tv/"> TV<span class="fontelloIcon icon-down-dir" /></a>
+            <div id="tvMenuDropdown" class="dropdown-menu" role="menu" aria-labelledby="tvMenu">
+                <div class="row-sameColumnHeight">
+                    <div class="col-xs-7 subnav">
+                        <div class="innerSubnav" id="header-tv-col1">
+                                <div class="clickForMore">
+                                    <a id="tv-list-21-view-all" class="unstyled articleLink" href="/browse/tv-list-1/">
+                                        View All
+                                    </a>
+                                </div>
+                                <h2 class="title">New TV Tonight</h2>
+                                <table id="tv-list-21" class="movie_list tv_list">
+                                    <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/lovecraft_country/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">87%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/lovecraft_country/s01">Lovecraft Country</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_vow/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">82%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_vow/s01">The Vow</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/last_tango_in_halifax/s05">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">80%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/last_tango_in_halifax/s05">Last Tango in Halifax</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/fargo/s04">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">81%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/fargo/s04">Fargo</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/van_der_valk/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">75%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/van_der_valk/s01">Van Der Valk</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_comey_rule/94383">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">62%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_comey_rule/94383">The Comey Rule</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/power_book_ii_ghost/s01">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/power_book_ii_ghost/s01">Power Book II: Ghost</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/love_island_2019/s02">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/love_island_2019/s02">Love Island</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_circus_inside_the_greatest_political_show_on_earth/s05">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_circus_inside_the_greatest_political_show_on_earth/s05">The Circus: Inside the Wildest Political Show on Earth</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_simpsons/s32">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_simpsons/s32">The Simpsons</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/bob_s_burgers/s11">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/bob_s_burgers/s11">Bob's Burgers</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/family_guy/s20">
+            <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/family_guy/s20">Family Guy</a>
+    </td>
+</tr></table>
+                            </div>
+                        </div>
+                    <div class="col-xs-7 subnav">
+                        <div class="innerSubnav" id="header-tv-col2">
+                                <div class="clickForMore">
+                                    <a id="tv-list-24-view-all" class="unstyled articleLink" href="/browse/tv-list-2/">
+                                        View All
+                                    </a>
+                                </div>
+                                <h2 class="title">Most Popular TV on RT</h2>
+                                <table id="tv-list-24" class="movie_list tv_list">
+                                    <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/ratched/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">60%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/ratched/s01">Ratched</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/fargo/s04">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">81%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/fargo/s04">Fargo</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_boys_2019/s02">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_boys_2019/s02">The Boys</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/raised_by_wolves-2020/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">75%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/raised_by_wolves-2020/s01">Raised by Wolves</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/cobra_kai/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/cobra_kai/s01">Cobra Kai</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/schitts_creek/s06">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/schitts_creek/s06">Schitt's Creek</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/p_valley/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/p_valley/s01">P-Valley</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/lovecraft_country/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">87%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/lovecraft_country/s01">Lovecraft Country</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/star_trek_discovery/s01">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">82%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/star_trek_discovery/s01">Star Trek: Discovery</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/utopia_2020/s01">
+            <span class="icon tiny rotten"></span>
+                    <span class="tMeterScore">59%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/utopia_2020/s01">Utopia</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/the_comey_rule/94383">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">62%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/the_comey_rule/94383">The Comey Rule</a>
+    </td>
+</tr><tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="https://www.rottentomatoes.com/tv/away/s01">
+            <span class="icon tiny fresh"></span>
+                    <span class="tMeterScore">60%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="https://www.rottentomatoes.com/tv/away/s01">Away</a>
+    </td>
+</tr></table>
+                            </div>
+                        </div>
+                    <div class="col-xs-5 subnav">
+                        <div class="innerSubnav">
+                            <h2 class="title">More</h2>
+                            <ul class="list-unstyled" id="header-tv-more">
+                                <li><a class="unstyled articleLink" href="/top-tv/">Top TV Shows</a></li>
+                                <li><a class="unstyled articleLink" href="/browse/tv-list-3/">Certified Fresh TV</a></li>
+                            </ul>
+                            <h2 class="title" style="margin-top: 20px">Episodic Reviews</h2>
+                            <ul class="list-unstyled" id="header-tv-episodic-reviews">
+                                <li><a href="/tv/atlanta/s02/#desktopEpisodeList"> Atlanta: Robbin' Season</a></li>
+                                <li><a href="/tv/black_mirror/s05/#desktopEpisodeList"> Black Mirror: Season 5</a></li>
+                                <li><a href="/tv/fargo/s03/#desktopEpisodeList"> Fargo: Season 3</a></li>
+                                <li><a href="/tv/into_the_dark/s02/#desktopEpisodeList"> Into The Dark: Season 2</a></li>
+                                <li><a href="/tv/game_of_thrones/s08/#desktopEpisodeList"> Game of Thrones: Season 8</a></li>
+                                <li><a href="/tv/killing_eve/s03/#desktopEpisodeList"> Killing Eve: Season 3</a></li>
+                                <li><a href="/tv/lovecraft_country/s01/#desktopEpisodeList"> Lovecraft Country: Season 1</a></li>
+                                <li><a href="/tv/the_mandalorian/s01/#desktopEpisodeList"> The Mandalorian: Season 1</a></li>
+                                <li><a href="/tv/orphan-black/s05/#desktopEpisodeList"> Orphan Black: Season 5</a></li>
+                                <li><a href="/tv/watchmen/s01/#desktopEpisodeList"> Watchmen: Season 1</a></li>
+                                </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-5 subnav freshPicks inDropdownTv">
+                        <div class="innerSubnav">
+                                <h2 class="title">Certified Fresh Pick</h2>
+                                <div class="cfpItem">
+    <a href="/tv/i_may_destroy_you/s01" class="unstyled articleLink cfpLinks">
+        <div class="imgContainer">
+            <img src="https://resizing.flixster.com/W1BLv6Opcr_inG_qlLV2CqzczaY=/fit-in/278x400/v1.dDs3MTM3ODg7ajsxODU2NTsxMjAwOzIwMDA7MzAwMA" />
+        </div>
+        <div class="movie_content_area">
+            <span class="icon tiny certified"></span>
+                    <span class="tMeterScore cfp-item-score">97%</span>
+                </div>
+        <p class="title noSpacing cfp-item-title">I May Destroy You</p>
+    </a>
+</div></div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="menuHeader center dropdown noSpacing dropdown-toggle">
+            <a id="newsMenu" class="h2" href="https://editorial.rottentomatoes.com">
+                News<span class="fontelloIcon icon-down-dir" />
+            </a>
+            <div class="dropdown-menu" role="menu" aria-labelledby="newsMenu">
+                <div class="row-sameColumnHeight noSpacing">
+                    <div class="col-xs-4 subnav">
+                        <div class="innerSubnav" id="header-news-columns">
+                            <h2 class="title">Columns</h2>
+                            <ul class="list-unstyled">
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/24-frames/" data-pageheader="24 Frames">24 Frames</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/all-time-lists/" data-pageheader="All-Time Lists">All-Time Lists</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/binge-guide/" data-pageheader="Binge Guide">Binge Guide</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/comics-on-tv/" data-pageheader="Comics on TV">Comics on TV</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/countdown/" data-pageheader="Countdown">Countdown</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/critics-consensus/" data-pageheader="Critics Consensus">Critics Consensus</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/five-favorite-films/" data-pageheader="Five Favorite Films">Five Favorite Films</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/now-streaming/" data-pageheader="Now Streaming">Now Streaming</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/parental-guidance/" data-pageheader="Parental Guidance">Parental Guidance</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/red-carpet-roundup/" data-pageheader="Red Carpet Roundup">Red Carpet Roundup</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/movie-tv-scorecards/" data-pageheader="Scorecards">Scorecards</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/sub-cult/" data-pageheader="Sub-Cult">Sub-Cult</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/total-recall/" data-pageheader="Total Recall">Total Recall</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/video-interviews/" data-pageheader="Video Interviews">Video Interviews</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/weekend-box-office/" data-pageheader="Weekend Box Office">Weekend Box Office</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/weekly-ketchup/" data-pageheader="Weekly Ketchup">Weekly Ketchup</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/what-to-watch/" data-pageheader="What to Watch">What to Watch</a></li>
+                                <li><a class="unstyled articleLink" href="https://editorial.rottentomatoes.com/the-zeros/" data-pageheader="The Zeros">The Zeros</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-best-worst">
+                                <div class="clickForMore">
+                                    <a class="unstyled articleLink" data-pageheader="Best and Worst - Show All" href="https://editorial.rottentomatoes.com/total-recall/">View All</a>
+                                </div>
+                                <h2 class="title">Best and Worst</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/sidney-poitiers-7-most-memorable-performances/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/01/09155023/Sidney-Poitier-Memorable.jpg')"></div>
+                                                <div class="newsTitle">
+                                                        Sidney Poitier&#8217;s 7 Most Memorable Performances</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/total-recall-harry-potter-movies/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2011/07/09155748/Harry-Potter-Movies.jpg')"></div>
+                                                <div class="newsTitle">
+                                                        All Harry Potter Movies Ranked Worst to Best by Tomatometer</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-guides">
+                                <div class="clickForMore">
+                                    <a class="unstyled articleLink" data-pageheader="Guides - Show All" href="https://editorial.rottentomatoes.com/rt-hubs/">View All</a>
+                                </div>
+                                <h2 class="title">Guides</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/rt-hub/fall-tv-2020/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/09/23111948/RT_FallGuide_2020_600X314.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    Fall TV 2020</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/rt-hub/2020-fall-tv-survey/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/09/11181820/RT_FALLTV2020_600x314.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    2020 Fall TV Survey</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                    <div class="col-xs-6 subnav">
+                        <div class="innerSubnav" id="header-news-rtnews">
+                                <div class="clickForMore" style="margin-bottom: 0">
+                                    <a class="unstyled articleLink" data-pageheader="RT News - Show All" href="https://editorial.rottentomatoes.com/news/">View All</a>
+                                </div>
+                                <h2 class="title">RT News</h2>
+                                <div class="newsContainer">
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/movies-leaving-netflix-end-of-september-2020/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/09/25173412/600JurassicPark.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    Movies Leaving Netflix at the End of September 2020</div>
+                                            </a>
+                                        </div>
+                                    <div class="newsContainerItem">
+                                            <a href="https://editorial.rottentomatoes.com/article/ryan-gosling-to-star-in-david-leitch-action-film-and-more-movie-news/" class="articleLink unstyled">
+                                                <div class="newsPhoto" style="background-image:url('https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/09/25160744/Ryan_Gosling-Drive-Ketchup_Rep.jpg')"></div>
+                                                <div class="newsTitle">
+                                                    Ryan Gosling to Star in David Leitch Action Film, and More Movie News</div>
+                                            </a>
+                                        </div>
+                                    </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </li>
+        <li class="h2 menuHeader center noSpacing" style="border-radius: 5px" id="header-tickets-showtimes">
+            <a id="ticketingMenu" href="/showtimes/" class="menuHeader"> Tickets &amp; Showtimes </a>
+        </li>
+    </ul>
+</div>
+</div>
+    <div class="trendingBar hidden-xs">
+        <div class="fr">
+            <ul id="trending_bar_social" class="list-inline social">
+                <li class="header"></li>
+                <li><a id="header-facebook-social-link" class="unstyled trendingLink fontelloIcon icon-facebook-squared white" href="http://www.facebook.com/rottentomatoes" target="_blank"></a></li>
+                <li><a id="header-twitter-social-link" class="unstyled trendingLink fontelloIcon icon-twitter white" href="http://twitter.com/rottentomatoes" target="_blank"></a></li>
+                <li><a id="header-instagram-social-link" class="unstyled trendingLink fontelloIcon icon-instagram white" href="https://www.instagram.com/rottentomatoes/"></a></li>
+                <li><a id="header-snapchat-social-link" class="unstyled trendingLink fontelloIcon icon-snapchat white" href="https://www.snapchat.com/add/rottentomatoes"></a></li>
+                <li><a id="header-youtube-social-link" class="unstyled trendingLink fontelloIcon icon-youtube-play white" href="http://www.youtube.com/user/rottentomatoes" target="_blank"></a></li>
+            </ul>
+            <div id="trending_bar_ad" style="display: none;"></div>
+            <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#trending_bar_ad','trendinggraphic');
+                    }
+                });
+            </script>
+        </div>
+        <ul class="list-inline trendingEl">
+            <li class="header">Trending on RT</li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/article/rotten-tomatoes-is-wrong-about-spider-man-3/" > Rotten Tomatoes Podcast</a></li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/rt-hub/2020-fall-tv-survey/" > Fall TV Survey Results</a></li>
+            <li><a class="unstyled trendingLink" href="https://editorial.rottentomatoes.com/article/rotten-tomatoes-watch-list-on-quibi/" > RT Watch List</a></li>
+            </ul>
+    </div>
+</nav>
+<div id="main_container" class="container ">
+            <div class="col-left-center col-full-xs">
+            <section id="top_movies_main" class="panel panel-rt panel-box " titleH1="true">
+    <h2 class="panel-heading">Top 100 Movies of 2018</h2>
+    <div class="panel-body content_body allow-overflow">
+        <div class="media bottom_divider">
+                    <div class="pull-left">
+                        <img alt="Best of Rotten Tomatoes" src="https://staticv2-4.rottentomatoes.com/static/images/logos/bestofrt-c.jpg" />
+                    </div>
+                    <div class="media-body">
+                        <h3>Best of Rotten Tomatoes</h3>
+                        <p class="description">
+                            Movies with 40 or more critic reviews vie for their place in history at
+                            Rotten Tomatoes. Eligible movies are ranked based on their Adjusted Scores.
+                        </p>
+                    </div>
+                </div>
+
+                <p class="pull-left">
+                            <span class="bold" style="line-height:34px;vertical-align:middle">Year:</span>
+                        </p>
+                        <div class="btn-group btn-primary-border-dropdown" style="margin-left:5px;width:100px">
+                            <button class="dropdown-toggle btn btn-primary-border fullWidth" data-toggle="dropdown" aria-expanded="false" type="button" style="text-align:left">
+                                <span class="fontelloIcon icon-down-dir pull-right"> </span>
+                                    2018</button>
+                            <ul class="dropdown-menu" role="menu" style="width:100px">
+                                <li>
+                                        <a href="/top/bestofrt/?year=2020">
+                                                2020</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2019">
+                                                2019</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2018">
+                                                2018</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2017">
+                                                2017</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2016">
+                                                2016</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2015">
+                                                2015</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2014">
+                                                2014</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2013">
+                                                2013</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2012">
+                                                2012</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2011">
+                                                2011</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2010">
+                                                2010</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2009">
+                                                2009</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2008">
+                                                2008</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2007">
+                                                2007</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2006">
+                                                2006</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2005">
+                                                2005</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2004">
+                                                2004</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2003">
+                                                2003</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2002">
+                                                2002</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2001">
+                                                2001</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=2000">
+                                                2000</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1999">
+                                                1999</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1998">
+                                                1998</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1997">
+                                                1997</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1996">
+                                                1996</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1995">
+                                                1995</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1994">
+                                                1994</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1993">
+                                                1993</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1992">
+                                                1992</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1991">
+                                                1991</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1990">
+                                                1990</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1989">
+                                                1989</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1988">
+                                                1988</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1987">
+                                                1987</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1986">
+                                                1986</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1985">
+                                                1985</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1984">
+                                                1984</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1983">
+                                                1983</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1982">
+                                                1982</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1981">
+                                                1981</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1980">
+                                                1980</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1979">
+                                                1979</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1978">
+                                                1978</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1977">
+                                                1977</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1976">
+                                                1976</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1975">
+                                                1975</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1974">
+                                                1974</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1973">
+                                                1973</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1972">
+                                                1972</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1971">
+                                                1971</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1970">
+                                                1970</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1969">
+                                                1969</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1968">
+                                                1968</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1967">
+                                                1967</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1966">
+                                                1966</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1965">
+                                                1965</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1964">
+                                                1964</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1963">
+                                                1963</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1962">
+                                                1962</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1961">
+                                                1961</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1960">
+                                                1960</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1959">
+                                                1959</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1958">
+                                                1958</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1957">
+                                                1957</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1956">
+                                                1956</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1955">
+                                                1955</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1954">
+                                                1954</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1953">
+                                                1953</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1952">
+                                                1952</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1951">
+                                                1951</a>
+                                    </li>
+                                <li>
+                                        <a href="/top/bestofrt/?year=1950">
+                                                1950</a>
+                                    </li>
+                                </ul>
+                        </div>
+                    <div class="subtle pull-right sortText">
+                    <span>Sorted by Adjusted Score</span>
+                    <span class="glyphicon glyphicon-question-sign hidden-xs" rel="tooltip" data-toggle="tooltip" data-placement="top" title="Each critic from our discrete list gets one vote, weighted equally. A movie must have 40 or more rated reviews to be considered. The 'Adjusted Score' comes from a weighted formula (Bayesian) that we use that accounts for variation in the number of reviews per movie."></span>
+                </div>
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th><span class="hidden-xs">Rating</span><span class="visible-xs">Tomatometer</span></th>
+                        <th>Title</th>
+                        <th class="right hidden-xs">No. of Reviews</th>
+                    </tr>
+                    </thead>
+                    <tr>
+    <td class="bold">1.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/black_panther_2018" class="unstyled articleLink">
+            Black Panther (2018)</a>
+    </td>
+    <td class="right hidden-xs">510</td>
+</tr>
+<tr>
+    <td class="bold">2.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/mission_impossible_fallout" class="unstyled articleLink">
+            Mission: Impossible - Fallout (2018)</a>
+    </td>
+    <td class="right hidden-xs">427</td>
+</tr>
+<tr>
+    <td class="bold">3.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/blackkklansman" class="unstyled articleLink">
+            BlacKkKlansman (2018)</a>
+    </td>
+    <td class="right hidden-xs">432</td>
+</tr>
+<tr>
+    <td class="bold">4.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/spider_man_into_the_spider_verse" class="unstyled articleLink">
+            Spider-Man: Into the Spider-Verse (2018)</a>
+    </td>
+    <td class="right hidden-xs">383</td>
+</tr>
+<tr>
+    <td class="bold">5.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/roma_2018" class="unstyled articleLink">
+            Roma (2018)</a>
+    </td>
+    <td class="right hidden-xs">386</td>
+</tr>
+<tr>
+    <td class="bold">6.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;90%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/a_star_is_born_2018" class="unstyled articleLink">
+            A Star Is Born (2018)</a>
+    </td>
+    <td class="right hidden-xs">515</td>
+</tr>
+<tr>
+    <td class="bold">7.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/a_quiet_place_2018" class="unstyled articleLink">
+            A Quiet Place (2018)</a>
+    </td>
+    <td class="right hidden-xs">372</td>
+</tr>
+<tr>
+    <td class="bold">8.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;99%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/eighth_grade" class="unstyled articleLink">
+            Eighth Grade (2018)</a>
+    </td>
+    <td class="right hidden-xs">303</td>
+</tr>
+<tr>
+    <td class="bold">9.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/can_you_ever_forgive_me" class="unstyled articleLink">
+            Can You Ever Forgive Me? (2018)</a>
+    </td>
+    <td class="right hidden-xs">303</td>
+</tr>
+<tr>
+    <td class="bold">10.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_favourite_2018" class="unstyled articleLink">
+            The Favourite (2018)</a>
+    </td>
+    <td class="right hidden-xs">402</td>
+</tr>
+<tr>
+    <td class="bold">11.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/paddington_2" class="unstyled articleLink">
+            Paddington 2 (2018)</a>
+    </td>
+    <td class="right hidden-xs">241</td>
+</tr>
+<tr>
+    <td class="bold">12.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/leave_no_trace" class="unstyled articleLink">
+            Leave No Trace (2018)</a>
+    </td>
+    <td class="right hidden-xs">234</td>
+</tr>
+<tr>
+    <td class="bold">13.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/incredibles_2" class="unstyled articleLink">
+            Incredibles 2 (2018)</a>
+    </td>
+    <td class="right hidden-xs">379</td>
+</tr>
+<tr>
+    <td class="bold">14.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/call_me_by_your_name" class="unstyled articleLink">
+            Call Me by Your Name (2018)</a>
+    </td>
+    <td class="right hidden-xs">355</td>
+</tr>
+<tr>
+    <td class="bold">15.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/widows_2018" class="unstyled articleLink">
+            Widows (2018)</a>
+    </td>
+    <td class="right hidden-xs">409</td>
+</tr>
+<tr>
+    <td class="bold">16.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;99%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/shoplifters" class="unstyled articleLink">
+            Shoplifters (Manbiki kazoku) (2018)</a>
+    </td>
+    <td class="right hidden-xs">225</td>
+</tr>
+<tr>
+    <td class="bold">17.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/wont_you_be_my_neighbor" class="unstyled articleLink">
+            Won't You Be My Neighbor? (2018)</a>
+    </td>
+    <td class="right hidden-xs">249</td>
+</tr>
+<tr>
+    <td class="bold">18.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/crazy_rich_asians" class="unstyled articleLink">
+            Crazy Rich Asians (2018)</a>
+    </td>
+    <td class="right hidden-xs">351</td>
+</tr>
+<tr>
+    <td class="bold">19.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_hate_u_give" class="unstyled articleLink">
+            The Hate U Give (2018)</a>
+    </td>
+    <td class="right hidden-xs">220</td>
+</tr>
+<tr>
+    <td class="bold">20.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/phantom_thread" class="unstyled articleLink">
+            Phantom Thread (2018)</a>
+    </td>
+    <td class="right hidden-xs">345</td>
+</tr>
+<tr>
+    <td class="bold">21.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/sorry_to_bother_you_2018" class="unstyled articleLink">
+            Sorry to Bother You (2018)</a>
+    </td>
+    <td class="right hidden-xs">301</td>
+</tr>
+<tr>
+    <td class="bold">22.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;85%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/avengers_infinity_war" class="unstyled articleLink">
+            Avengers: Infinity War (2018)</a>
+    </td>
+    <td class="right hidden-xs">471</td>
+</tr>
+<tr>
+    <td class="bold">23.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;87%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/ant_man_and_the_wasp" class="unstyled articleLink">
+            Ant-Man and the Wasp (2018)</a>
+    </td>
+    <td class="right hidden-xs">425</td>
+</tr>
+<tr>
+    <td class="bold">24.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;90%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/isle_of_dogs_2018" class="unstyled articleLink">
+            Isle of Dogs (2018)</a>
+    </td>
+    <td class="right hidden-xs">358</td>
+</tr>
+<tr>
+    <td class="bold">25.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;86%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/first_man" class="unstyled articleLink">
+            First Man (2018)</a>
+    </td>
+    <td class="right hidden-xs">442</td>
+</tr>
+<tr>
+    <td class="bold">26.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;89%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/i_tonya" class="unstyled articleLink">
+            I, Tonya (2018)</a>
+    </td>
+    <td class="right hidden-xs">377</td>
+</tr>
+<tr>
+    <td class="bold">27.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;88%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_post" class="unstyled articleLink">
+            The Post (2018)</a>
+    </td>
+    <td class="right hidden-xs">398</td>
+</tr>
+<tr>
+    <td class="bold">28.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_death_of_stalin" class="unstyled articleLink">
+            The Death of Stalin (2018)</a>
+    </td>
+    <td class="right hidden-xs">244</td>
+</tr>
+<tr>
+    <td class="bold">29.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;89%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/hereditary" class="unstyled articleLink">
+            Hereditary (2018)</a>
+    </td>
+    <td class="right hidden-xs">369</td>
+</tr>
+<tr>
+    <td class="bold">30.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_rider" class="unstyled articleLink">
+            The Rider (2018)</a>
+    </td>
+    <td class="right hidden-xs">182</td>
+</tr>
+<tr>
+    <td class="bold">31.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/minding_the_gap" class="unstyled articleLink">
+            Minding the Gap (2018)</a>
+    </td>
+    <td class="right hidden-xs">117</td>
+</tr>
+<tr>
+    <td class="bold">32.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_old_man_and_the_gun" class="unstyled articleLink">
+            The Old Man & the Gun (2018)</a>
+    </td>
+    <td class="right hidden-xs">267</td>
+</tr>
+<tr>
+    <td class="bold">33.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/three_identical_strangers" class="unstyled articleLink">
+            Three Identical Strangers (2018)</a>
+    </td>
+    <td class="right hidden-xs">179</td>
+</tr>
+<tr>
+    <td class="bold">34.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;99%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/mcqueen" class="unstyled articleLink">
+            McQueen (2018)</a>
+    </td>
+    <td class="right hidden-xs">122</td>
+</tr>
+<tr>
+    <td class="bold">35.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/a_fantastic_woman" class="unstyled articleLink">
+            A Fantastic Woman (Una mujer fantástica) (2018)</a>
+    </td>
+    <td class="right hidden-xs">221</td>
+</tr>
+<tr>
+    <td class="bold">36.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/summer_1993" class="unstyled articleLink">
+            Summer 1993 (Estiu 1993) (2018)</a>
+    </td>
+    <td class="right hidden-xs">90</td>
+</tr>
+<tr>
+    <td class="bold">37.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/free_solo" class="unstyled articleLink">
+            Free Solo (2018)</a>
+    </td>
+    <td class="right hidden-xs">152</td>
+</tr>
+<tr>
+    <td class="bold">38.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/first_reformed" class="unstyled articleLink">
+            First Reformed (2018)</a>
+    </td>
+    <td class="right hidden-xs">237</td>
+</tr>
+<tr>
+    <td class="bold">39.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/burning_2018" class="unstyled articleLink">
+            Burning (Beoning) (2018)</a>
+    </td>
+    <td class="right hidden-xs">193</td>
+</tr>
+<tr>
+    <td class="bold">40.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/loveless_2018" class="unstyled articleLink">
+            Loveless (Nelyubov) (2018)</a>
+    </td>
+    <td class="right hidden-xs">183</td>
+</tr>
+<tr>
+    <td class="bold">41.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;92%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/searching_2018" class="unstyled articleLink">
+            Searching (2018)</a>
+    </td>
+    <td class="right hidden-xs">247</td>
+</tr>
+<tr>
+    <td class="bold">42.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;92%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/cold_war_2018" class="unstyled articleLink">
+            Cold War (Zimna wojna) (2018)</a>
+    </td>
+    <td class="right hidden-xs">246</td>
+</tr>
+<tr>
+    <td class="bold">43.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/shirkers" class="unstyled articleLink">
+            Shirkers (2018)</a>
+    </td>
+    <td class="right hidden-xs">65</td>
+</tr>
+<tr>
+    <td class="bold">44.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;99%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/tea_with_the_dames" class="unstyled articleLink">
+            Tea With the Dames (Nothing Like a Dame) (2018)</a>
+    </td>
+    <td class="right hidden-xs">85</td>
+</tr>
+<tr>
+    <td class="bold">45.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/border_2018" class="unstyled articleLink">
+            Border (Gräns) (2018)</a>
+    </td>
+    <td class="right hidden-xs">127</td>
+</tr>
+<tr>
+    <td class="bold">46.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;99%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_tale" class="unstyled articleLink">
+            The Tale (2018)</a>
+    </td>
+    <td class="right hidden-xs">76</td>
+</tr>
+<tr>
+    <td class="bold">47.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/wildlife_2018" class="unstyled articleLink">
+            Wildlife (2018)</a>
+    </td>
+    <td class="right hidden-xs">205</td>
+</tr>
+<tr>
+    <td class="bold">48.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;88%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/annihilation" class="unstyled articleLink">
+            Annihilation (2018)</a>
+    </td>
+    <td class="right hidden-xs">312</td>
+</tr>
+<tr>
+    <td class="bold">49.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_guilty_2018" class="unstyled articleLink">
+            The Guilty (Den skyldige) (2018)</a>
+    </td>
+    <td class="right hidden-xs">116</td>
+</tr>
+<tr>
+    <td class="bold">50.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/bumblebee" class="unstyled articleLink">
+            Bumblebee (2018)</a>
+    </td>
+    <td class="right hidden-xs">244</td>
+</tr>
+<tr>
+    <td class="bold">51.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/mandy_2018" class="unstyled articleLink">
+            Mandy (2018)</a>
+    </td>
+    <td class="right hidden-xs">243</td>
+</tr>
+<tr>
+    <td class="bold">52.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;100%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/hannah_gadsby_nanette" class="unstyled articleLink">
+            Hannah Gadsby: Nanette (2018)</a>
+    </td>
+    <td class="right hidden-xs">48</td>
+</tr>
+<tr>
+    <td class="bold">53.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;83%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/deadpool_2" class="unstyled articleLink">
+            Deadpool 2 (2018)</a>
+    </td>
+    <td class="right hidden-xs">412</td>
+</tr>
+<tr>
+    <td class="bold">54.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/rbg" class="unstyled articleLink">
+            RBG (2018)</a>
+    </td>
+    <td class="right hidden-xs">172</td>
+</tr>
+<tr>
+    <td class="bold">55.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/blindspotting" class="unstyled articleLink">
+            Blindspotting (2018)</a>
+    </td>
+    <td class="right hidden-xs">170</td>
+</tr>
+<tr>
+    <td class="bold">56.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;89%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/you_were_never_really_here" class="unstyled articleLink">
+            You Were Never Really Here (2018)</a>
+    </td>
+    <td class="right hidden-xs">277</td>
+</tr>
+<tr>
+    <td class="bold">57.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/love_simon" class="unstyled articleLink">
+            Love, Simon (2018)</a>
+    </td>
+    <td class="right hidden-xs">228</td>
+</tr>
+<tr>
+    <td class="bold">58.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/custody_2018" class="unstyled articleLink">
+            Custody (Jusqu'à la garde) (2018)</a>
+    </td>
+    <td class="right hidden-xs">119</td>
+</tr>
+<tr>
+    <td class="bold">59.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/zama" class="unstyled articleLink">
+            Zama (2018)</a>
+    </td>
+    <td class="right hidden-xs">109</td>
+</tr>
+<tr>
+    <td class="bold">60.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/in_between_2018" class="unstyled articleLink">
+            In Between (2018)</a>
+    </td>
+    <td class="right hidden-xs">64</td>
+</tr>
+<tr>
+    <td class="bold">61.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_cakemaker" class="unstyled articleLink">
+            The Cakemaker (2018)</a>
+    </td>
+    <td class="right hidden-xs">57</td>
+</tr>
+<tr>
+    <td class="bold">62.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;88%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/ralph_breaks_the_internet" class="unstyled articleLink">
+            Ralph Breaks the Internet (2018)</a>
+    </td>
+    <td class="right hidden-xs">272</td>
+</tr>
+<tr>
+    <td class="bold">63.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/science_fair" class="unstyled articleLink">
+            Science Fair (2018)</a>
+    </td>
+    <td class="right hidden-xs">76</td>
+</tr>
+<tr>
+    <td class="bold">64.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/foxtrot_2018" class="unstyled articleLink">
+            Foxtrot (2018)</a>
+    </td>
+    <td class="right hidden-xs">140</td>
+</tr>
+<tr>
+    <td class="bold">65.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/oh_lucy_2018" class="unstyled articleLink">
+            Oh Lucy! (2018)</a>
+    </td>
+    <td class="right hidden-xs">52</td>
+</tr>
+<tr>
+    <td class="bold">66.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;90%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_ballad_of_buster_scruggs" class="unstyled articleLink">
+            The Ballad of Buster Scruggs (2018)</a>
+    </td>
+    <td class="right hidden-xs">223</td>
+</tr>
+<tr>
+    <td class="bold">67.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/night_comes_on" class="unstyled articleLink">
+            Night Comes On (2018)</a>
+    </td>
+    <td class="right hidden-xs">49</td>
+</tr>
+<tr>
+    <td class="bold">68.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/sweet_country_2018" class="unstyled articleLink">
+            Sweet Country (2018)</a>
+    </td>
+    <td class="right hidden-xs">91</td>
+</tr>
+<tr>
+    <td class="bold">69.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/hale_county_this_morning_this_evening" class="unstyled articleLink">
+            Hale County This Morning, This Evening (2018)</a>
+    </td>
+    <td class="right hidden-xs">69</td>
+</tr>
+<tr>
+    <td class="bold">70.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/ryuichi_sakamoto_coda" class="unstyled articleLink">
+            Ryuichi Sakamoto: Coda (2018)</a>
+    </td>
+    <td class="right hidden-xs">45</td>
+</tr>
+<tr>
+    <td class="bold">71.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/rodents_of_unusual_size" class="unstyled articleLink">
+            Rodents of Unusual Size (2018)</a>
+    </td>
+    <td class="right hidden-xs">44</td>
+</tr>
+<tr>
+    <td class="bold">72.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/marlina_the_murderer_in_four_acts" class="unstyled articleLink">
+            Marlina the Murderer in Four Acts (2018)</a>
+    </td>
+    <td class="right hidden-xs">44</td>
+</tr>
+<tr>
+    <td class="bold">73.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;97%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/pick_of_the_litter" class="unstyled articleLink">
+            Pick of the Litter (2018)</a>
+    </td>
+    <td class="right hidden-xs">65</td>
+</tr>
+<tr>
+    <td class="bold">74.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;98%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/leaning_into_the_wind" class="unstyled articleLink">
+            Leaning Into the Wind (2018)</a>
+    </td>
+    <td class="right hidden-xs">43</td>
+</tr>
+<tr>
+    <td class="bold">75.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;87%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/tully_2018" class="unstyled articleLink">
+            Tully (2018)</a>
+    </td>
+    <td class="right hidden-xs">278</td>
+</tr>
+<tr>
+    <td class="bold">76.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/thunder_road_2018" class="unstyled articleLink">
+            Thunder Road (2018)</a>
+    </td>
+    <td class="right hidden-xs">82</td>
+</tr>
+<tr>
+    <td class="bold">77.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/i_am_not_a_witch" class="unstyled articleLink">
+            I Am Not a Witch (2018)</a>
+    </td>
+    <td class="right hidden-xs">77</td>
+</tr>
+<tr>
+    <td class="bold">78.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/western_2018" class="unstyled articleLink">
+            Western (2018)</a>
+    </td>
+    <td class="right hidden-xs">72</td>
+</tr>
+<tr>
+    <td class="bold">79.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;92%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/hearts_beat_loud" class="unstyled articleLink">
+            Hearts Beat Loud (2018)</a>
+    </td>
+    <td class="right hidden-xs">155</td>
+</tr>
+<tr>
+    <td class="bold">80.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/to_all_the_boys_ive_loved_before" class="unstyled articleLink">
+            To All the Boys I've Loved Before (2018)</a>
+    </td>
+    <td class="right hidden-xs">68</td>
+</tr>
+<tr>
+    <td class="bold">81.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/revenge_2018" class="unstyled articleLink">
+            Revenge (2018)</a>
+    </td>
+    <td class="right hidden-xs">132</td>
+</tr>
+<tr>
+    <td class="bold">82.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/private_life_2018" class="unstyled articleLink">
+            Private Life (2018)</a>
+    </td>
+    <td class="right hidden-xs">104</td>
+</tr>
+<tr>
+    <td class="bold">83.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/filmworker" class="unstyled articleLink">
+            Filmworker (2018)</a>
+    </td>
+    <td class="right hidden-xs">82</td>
+</tr>
+<tr>
+    <td class="bold">84.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;92%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/beast" class="unstyled articleLink">
+            Beast (2018)</a>
+    </td>
+    <td class="right hidden-xs">144</td>
+</tr>
+<tr>
+    <td class="bold">85.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;90%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/lean_on_pete" class="unstyled articleLink">
+            Lean on Pete (2018)</a>
+    </td>
+    <td class="right hidden-xs">187</td>
+</tr>
+<tr>
+    <td class="bold">86.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/on_her_shoulders" class="unstyled articleLink">
+            On Her Shoulders (2018)</a>
+    </td>
+    <td class="right hidden-xs">54</td>
+</tr>
+<tr>
+    <td class="bold">87.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/dark_money" class="unstyled articleLink">
+            Dark Money (2018)</a>
+    </td>
+    <td class="right hidden-xs">49</td>
+</tr>
+<tr>
+    <td class="bold">88.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/1985_2018" class="unstyled articleLink">
+            1985 (2018)</a>
+    </td>
+    <td class="right hidden-xs">48</td>
+</tr>
+<tr>
+    <td class="bold">89.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;94%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/blaze_2018" class="unstyled articleLink">
+            Blaze (2018)</a>
+    </td>
+    <td class="right hidden-xs">90</td>
+</tr>
+<tr>
+    <td class="bold">90.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/support_the_girls" class="unstyled articleLink">
+            Support the Girls (2018)</a>
+    </td>
+    <td class="right hidden-xs">154</td>
+</tr>
+<tr>
+    <td class="bold">91.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;96%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/good_manners" class="unstyled articleLink">
+            Good Manners (As Boas Maneiras) (2018)</a>
+    </td>
+    <td class="right hidden-xs">46</td>
+</tr>
+<tr>
+    <td class="bold">92.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;92%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_endless" class="unstyled articleLink">
+            The Endless (2018)</a>
+    </td>
+    <td class="right hidden-xs">128</td>
+</tr>
+<tr>
+    <td class="bold">93.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;90%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/capernaum" class="unstyled articleLink">
+            Capernaum (Capharnaüm) (2018)</a>
+    </td>
+    <td class="right hidden-xs">171</td>
+</tr>
+<tr>
+    <td class="bold">94.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;88%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/american_animals" class="unstyled articleLink">
+            American Animals (2018)</a>
+    </td>
+    <td class="right hidden-xs">210</td>
+</tr>
+<tr>
+    <td class="bold">95.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;93%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/cam" class="unstyled articleLink">
+            CAM (2018)</a>
+    </td>
+    <td class="right hidden-xs">97</td>
+</tr>
+<tr>
+    <td class="bold">96.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;91%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/teen_titans_go_to_the_movies" class="unstyled articleLink">
+            Teen Titans Go! To the Movies (2018)</a>
+    </td>
+    <td class="right hidden-xs">132</td>
+</tr>
+<tr>
+    <td class="bold">97.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;83%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/creed_ii" class="unstyled articleLink">
+            Creed II (2018)</a>
+    </td>
+    <td class="right hidden-xs">303</td>
+</tr>
+<tr>
+    <td class="bold">98.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;87%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/colette_2018" class="unstyled articleLink">
+            Colette (2018)</a>
+    </td>
+    <td class="right hidden-xs">214</td>
+</tr>
+<tr>
+    <td class="bold">99.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/the_wolf_house" class="unstyled articleLink">
+            The Wolf House (La casa lobo) (2018)</a>
+    </td>
+    <td class="right hidden-xs">41</td>
+</tr>
+<tr>
+    <td class="bold">100.</td>
+    <td>
+        <span class="tMeterIcon tiny">
+                    <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">&nbsp;95%</span>
+                </span>
+            </td>
+    <td>
+        <a href="/m/outside_in_2018" class="unstyled articleLink">
+            Outside In (2018)</a>
+    </td>
+    <td class="right hidden-xs">41</td>
+</tr>
+</table>
+            </div>
+</section>
+</div>
+        <div class="col-right hidden-xs">
+            <aside id="medrec_top_ad" class="medrec_ad " style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#medrec_top_ad','topmulti');
+                    }
+                });
+            </script>
+        <section id="" class="panel panel-rt panel-box " class="bestofrt-header">
+    <h2 class="panel-heading">Today's Top Rated Movies</h2>
+    <div class="panel-body content_body">
+        <div>
+        <h3>Certified Fresh In Theaters</h3>
+        <table class="movie_list" id="Top-Box-Office">
+            <tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/miss_juneteenth">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">99%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/miss_juneteenth">Miss Juneteenth</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/the_personal_history_of_david_copperfield">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">93%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/the_personal_history_of_david_copperfield">The Personal History of David Copperfield</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/palm_springs_2020">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">94%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/palm_springs_2020">Palm Springs</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/all_in_the_fight_for_democracy">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/all_in_the_fight_for_democracy">All In: The Fight for Democracy</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/house_of_hummingbird">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/house_of_hummingbird">House of Hummingbird (Beolsae)</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/coup_53">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/coup_53">Coup 53</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/the_fight_2020">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/the_fight_2020">The Fight</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/beats_2020">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/beats_2020">Beats</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/boys_state">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">94%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/boys_state">Boys State</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/babyteeth">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">94%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/babyteeth">Babyteeth</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr></table>
+
+        <p class="fr"><a href="/browse/cf-in-theaters/?certified=true" class="unstyled articleLink">View All</a></p>
+    </div>
+
+    <div>
+        <h3 class = "clearfix">Top 10 DVD Releases</h3>
+        <table class="movie_list" id="Top-DVD">
+            <tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/black_panther_2018">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">96%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/black_panther_2018">Black Panther</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/parasite_2019">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/parasite_2019">Parasite (Gisaengchung)</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/avengers_endgame">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">94%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/avengers_endgame">Avengers: Endgame</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/knives_out">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/knives_out">Knives Out</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/us_2019">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">93%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/us_2019">Us</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/toy_story_4">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/toy_story_4">Toy Story 4</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/the_wizard_of_oz_1939">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">98%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/the_wizard_of_oz_1939">The Wizard of Oz</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/lady_bird">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">99%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/lady_bird">Lady Bird</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/mission_impossible_fallout">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">97%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/mission_impossible_fallout">Mission: Impossible - Fallout</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr><tr class="sidebarInTheaterOpening" class="">
+    <td class="left_col">
+        <a href="/m/citizen_kane">
+            <span class="icon tiny certified_fresh"></span>
+                    <span class="tMeterScore">100%</span>
+                </a>
+    </td>
+    <td class="middle_col">
+        <a href="/m/citizen_kane">Citizen Kane</a>
+    </td>
+    <td class="right_col right">
+        </td>
+</tr></table>
+        <p class="fr"><a href="/browse/top-dvd-streaming/" class="unstyled articleLink">View All</a></p>
+    </div>
+</div>
+</section>
+<aside id="medrec_bottom_ad" class="medrec_ad " style="width:300px"></aside>
+    <script>
+                var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+                mps._queue.gptloaded.push(function() {
+                    if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+                        mps.insertAd('#medrec_bottom_ad','boxadone');
+                    } else if (mps.getResponsiveSet() == '0' && 'movie' == 'home') {
+                        mps.insertAd('#medrec_bottom_ad','mboxadtwo');
+                    }
+                });
+            </script>
+        </div>
+    </div>
+        <script>console.info("body content:" + window.performance.now());</script>
+        <div class="sleaderboard_wrapper hidden-xs">
+		<div id="leaderboard_bottom_ad" style="margin-left:auto;margin-right:auto;display:inline-block">
+		</div>
+		<script>
+			var mps=mps||{}; mps._queue=mps._queue||{}; mps._queue.gptloaded=mps._queue.gptloaded||[];
+			mps._queue.gptloaded.push(function() {
+				if (mps.getResponsiveSet() !='0') { //DESKTOP or TABLET
+					mps.insertAd('#leaderboard_bottom_ad','bottombanner');
+				}
+			});
+		</script>
+	</div>
+<footer id="foot" class="hidden-xs">
+    <div class="row">
+        <div class="col-xs-5 subnav">
+            <ul class="unstyled">
+                <li><a id="footer-help" class="unstyled trendingLink" href="/help_desk/">Help</a></li>
+                <li><a id="footer-about" class="unstyled trendingLink" href="/about/">About Rotten Tomatoes</a></li>
+                <li><a id="footer-tomatometer" style="cursor: pointer;" class="unstyled trendingLink" href="/about#whatisthetomatometer">What's the Tomatometer?</a></li>
+                <li><a id="footer-feedback" class="unstyled trendingLink" href="https://fandango.az1.qualtrics.com/SE/?SID=SV_cGSHgMIu5ivVwAB" target="_blank">Feedback</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-4 subnav">
+            <ul>
+                <li><a id="footer-critics" class="unstyled trendingLink" href="/help_desk/critics/">Critic Submission</a></li>
+                <li><a id="footer-licensing" class="unstyled trendingLink" href="/help_desk/licensing/">Licensing</a></li>
+                <li><a id="footer-advertise" class="unstyled trendingLink" href="//www.fandango.com/Advertising.aspx">Advertise</a></li>
+                <li><a id="footer-jobs" class="unstyled trendingLink" href="//www.fandango.com/careers">Careers</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-7 subnav center">
+            <h2><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;JOIN THE NEWSLETTER</h2>
+            <div class="default-half-margin-vertical">
+                Get the freshest reviews, news, and more delivered right to your inbox!
+            </div>
+            <div class="default-margin">
+                <a class="btn btn-primary footer-btn" href="/?openSignupModal=true">
+                    Join the Newsletter!
+                </a>
+            </div>
+        </div>
+        <div class="col-xs-8 subnav">
+            <h2>Follow Us</h2>
+            <div>
+                <a id="footer-follow-us-facebook" class="unstyled trendingLink fontelloIcon icon-facebook-squared footerIcon" href="http://www.facebook.com/rottentomatoes"></a>&nbsp;&nbsp;&nbsp;
+                <a id="footer-follow-us-twitter" class="unstyled trendingLink fontelloIcon icon-twitter footerIcon" href="http://twitter.com/rottentomatoes"></a>&nbsp;&nbsp;&nbsp;
+                <a id="footer-follow-us-instagram" class="unstyled trendingLink fontelloIcon icon-instagram footerIcon" href="https://www.instagram.com/rottentomatoes/"></a>&nbsp;&nbsp;&nbsp;
+                <a id="footer-follow-us-snapchat" class="unstyled trendingLink fontelloIcon icon-snapchat footerIcon" href="https://www.snapchat.com/add/rottentomatoes"></a>&nbsp;&nbsp;&nbsp;
+                <a id="footer-follow-us-youtube" class="unstyled trendingLink fontelloIcon icon-youtube-play footerIcon" href="http://www.youtube.com/user/rottentomatoes"></a>&nbsp;&nbsp;&nbsp;
+            </div>
+        </div>
+    </div>
+    <div class="subtle" style="padding:10px">
+        <span class="easteregg">Copyright &copy; Fandango. All rights reserved.</span> <span style="color:#313131">V2</span>
+        <a id="footer-privacy" href="//www.fandango.com/PrivacyPolicy">Privacy Policy</a> |
+        <a id="footer-tos" href="//www.fandango.com/terms-and-policies">Terms and Policies</a> |
+        <a id="footer-ad-choices" href="//www.aboutads.info/choices" class="adchoices">Ad Choices</a>
+    </div>
+</footer>
+
+<footer id="mobileFoot" class="visible-xs-block">
+    <div class="white">Copyright &copy; Fandango. All rights reserved. <span style="color:#313131">V2</span></div>
+    <div class="default-margin">
+        <a href="/?openSignupModal=true" class="btn btn-primary">Join Newsletter</a>
+    </div>
+    <div>
+        <a class="footerLinks" href="//www.fandango.com/terms-and-policies">Terms and Policies</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="footerLinks" href="//www.fandango.com/PrivacyPolicy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="footerLinks" href="https://fandango.az1.qualtrics.com/SE/?SID=SV_cGSHgMIu5ivVwAB" target="_blank">Feedback</a>
+    </div>
+</footer></div>
+    <script type="text/template" class="LoginModalTemplate">
+    <div class="modal-dialog modal-sm ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <h2 class="modal-title">Log In</h2>
+            </div>
+            <div class="modal-body loginForm">
+                <div class="error"></div>
+                <p>
+                    <a id="fbLoginButton" class="btn btn-primary-fb btn-lg fullWidth">
+                        <i class="fontelloIcon icon-facebook-squared"></i>
+                        Log in with Facebook
+                    </a>
+                </p>
+                <div style="border-bottom:1px solid gray;margin-bottom:10px;padding-bottom:10px;">
+                    <div style="background-color:white;left:50%;margin-left:-10px;padding:0 10px;position:absolute">OR</div>
+                </div>
+                <div class="loginInfo">
+                    <div class="form-group username">
+                        <label class="control-label" for="login_username">Email address</label>
+                        <input id="login_username" class="form-control" name="login_username" placeholder="Email Address" type="email">
+                        <span class="help-block"></span>
+                    </div>
+                    <div class="form-group password">
+                        <label class="control-label" for="login_password">Password</label>
+                        <input id="login_password" type="password" class="form-control" name="login_password" placeholder="Password">
+                        <span class="help-block"></span>
+                    </div>
+                    <div class="form-group">
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary btn-login">Log In</button>
+                        </div>
+                    </div>
+                    <input type="hidden" name="redirectUrl" value="" />
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p>
+                    <a class="passwordModal" data-dismiss="modal" data-toggle="modal" data-target="#forgot-password">Forgot your password?</a><br />
+                    Don't have an account? <a class="signupModal" data-dismiss="modal" data-toggle="modal" data-target="#signup">Sign up here</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="SignupModalTemplate">
+    <div class="modal-dialog ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <h2 class="modal-title">Sign up for Rotten Tomatoes</h2>
+            </div>
+            <div class="modal-body">
+                <a id="fbSignUpButton" class="btn btn-primary-fb btn-lg fullWidth">
+                    <i class="fontelloIcon icon-facebook-squared"></i>
+                    Sign up with Facebook
+                </a>
+                <p class="text-center">
+                    OR
+                </p>
+                <div class="form-group col-xs-12 first_name">
+                    <label class="control-label fullWidth" for="register_first_name">
+                        First Name
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_first_name" class="form-control" name="register_first_name" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-12 last_name">
+                    <label class="control-label fullWidth" for="register_first_name">
+                        Last Name
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_last_name" class="form-control" name="register_last_name" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 email">
+                    <label class="control-label fullWidth" for="register_email">
+                        Email
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_email" class="form-control" name="register_email" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 password">
+                    <label class="control-label fullWidth" for="register_password">
+                        Password
+                    </label>
+                    <div class="fullWidth">
+                        <input id="register_password" class="form-control" name="register_password" type="password" />
+                    </div>
+                    <span class="help-block"></span>
+                </div>
+                <div class="form-group col-xs-24 recaptcha">
+                    <div id="recaptchaSignupBlock" class="recaptchaBlock"></div>
+                </div>
+                <div class="form-group">
+                    <div class="text-center">
+                        <p><small>
+                            By creating an account, you agree to the
+                            <a href="http://www.fandango.com/policies/privacy-policy" target="_blank">Privacy Policy</a>
+                            and <a href="http://www.fandango.com/policies/terms-and-policies" target="_blank">Terms and Policies</a>,
+                            and to receive email from Rotten Tomatoes and Fandango.
+                        </small></p>
+                        <button type="submit" class="btn btn-primary btn-signup disabled">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p class="text-center">
+                    <small>Already have an account? <a class="loginModal" data-dismiss="modal" data-toggle="modal" data-target="#login">Log in here</a></small>
+                </p>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="PasswordModalTemplate">
+    <div class="modal-dialog ctHidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                </button>
+                <@ if (initialState) { @>
+                <h2 class="modal-title">Forgot your password</h2>
+                <@ } else { @>
+                <h2 class="modal-title">Password sent</h2>
+                <@ } @>
+            </div>
+            <div class="modal-body">
+                <@ if (initialState) { @>
+                    <@ if (errorMessage) { @>
+                        <div class="alert alert-danger alert-dismissible" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            <@= errorMessage @>
+                        </div>
+                    <@ } @>
+                    <p>
+                        Please enter your email address and we will email you a new password.
+                    </p>
+                    <div class="form-group col-xs-24">
+                        <label class="control-label fullWidth" for="forgot_email_address">
+                            Email Address
+                        </label>
+                        <div class="fullWidth">
+                            <input id="forgot_email_address" class="form-control" name="forgot_email_address" />
+                        </div>
+                    </div>
+                    <div class="form-group col-xs-24">
+                        <div id="recaptchaFPBlock"></div>
+                    </div>
+                    <button class="btn btn-primary btn-submit disabled">Submit</button>
+                <@ } else { @>
+                    <div>
+                        Check your email for a link to reset your password. <br/> <br/>
+                        NOTE: If you do not get the new password email in your inbox,
+                        check your Bulk Mail or Spam folder.
+                    </div>
+                    <a class="loginModal btn btn-primary" data-dismiss="modal" data-toggle="modal" data-target="#login">
+                        Log in
+                    </a>
+                <@ } @>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" class="PageHeaderLoginTemplate">
+    <@ if (loggedIn) { @>
+        <div class="userDropdown dropdown ctHidden">
+            <a rel="nofollow" href="/user/id/<@= flixsterId @>">
+                <img class="userThumb" src="<@= thumbnailUrl @>" />
+                <span class="userName"><@= firstName @></span>
+                <span class="fontelloIcon icon-down-dir"></span>
+            </a>
+            <ul class="dropdown-menu roundMenu">
+                <li class="media userStats">
+                    <a rel="nofollow" class="pull-left" href="/user/id/<@= flixsterId @>/">
+                        <img src="<@= thumbnailUrl @>" width="40" alt="<@= firstName @>">
+                    </a>
+                    <div class="media-body">
+                        <div class="name">
+                            <a rel="nofollow" href="/user/id/<@= flixsterId @>/" class="unstyled articleLink name"><@= firstName @>&nbsp;<@= lastName @></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="header-top-bar-item">
+                    <a rel="nofollow" id="header-top-bar-profile" class="articleLink" href="/user/id/<@= flixsterId @>/" style="margin-bottom:-4px">Profile</a>
+                </li>
+                <li class="header-top-bar-item">
+                    <a rel="nofollow" id="header-top-bar-account" class="articleLink" href="/user/account/" style="margin-bottom:-4px">Account</a>
+                </li>
+                <li class="header-top-bar-item">
+                    <a id="header-top-bar-logout" class="logout articleLink">Log Out</a>
+                </li>
+            </ul>
+        </div>
+    <@ } else { @>
+        <a id="header-top-bar-signup" data-toggle="modal" data-target="#signup" class="signupLink login ctHidden">SIGN UP</a>
+        <span id="header-top-dash">&#124;</span><a id="header-top-bar-login" data-toggle="modal" data-target="#login" class="loginLink login ctHidden">LOG IN</a>
+    <@ } @>
+</script>
+<script type="text/template" class="PageHeaderLoginMobileTemplate">
+    <@ if (loggedIn) { @>
+        <div class="userProfile ctHidden">
+            <a rel="nofollow" class="userProfileLink" href="/user/id/<@= flixsterId @>">
+                <div class="media">
+                    <div class="pull-left">
+                        <img class="media-object" src="<@= thumbnailUrl @>" alt="<@= firstName @>" />
+                    </div>
+                    <div class="pull-right">
+                        <span class="glyphicon glyphicon-cog"/>
+                    </div>
+                    <div class="media-body">
+                        <span class="name"><@= firstName @>&nbsp;<@= lastName @></span>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="logoutRow ctHidden">
+            <a class="logout">
+                Logout
+            </a>
+        </div>
+
+    <@ } else { @>
+        <a data-toggle="modal" data-target="#signup" class="signupLink login ctHidden">SIGN UP</a>
+        <a data-toggle="modal" data-target="#login" class="loginLink login ctHidden">LOG IN</a>
+    <@ } @>
+</script>
+<script type="text/template" class="SocialToolsTemplate">
+    <a class="social-tools-facebook-like" title="Facebook Like"></a>
+    <a class="social-tools-facebook-share" title="Facebook Share"></a>
+    <a class="social-tools-twitter" title="Twitter"></a>
+    <a class="social-tools-pinterest" title="Pinterest"></a>
+    <a class="social-tools-googleplus" title="Google+"></a>
+    <a class="social-tools-stumbleupon" title="StumbleUpon"></a>
+    <@ if (forumLink) { @>
+        <a href="<@= forumLink @>" class="social-tools-comments" title="Forums"></a>
+    <@ } @>
+</script>
+<script>
+require(["https://staticv2-4.rottentomatoes.com/static/dist/jspjs/bodyScript.tag.min.js"], function(PageLoad) {
+    PageLoad();
+});
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onRecaptchaCallback&render=explicit" async defer></script>
+<script>
+    $(".easteregg").click(function () {
+        alert(window.location.href + " \n/top/bestofrt.jsp \nip-10-25-21-175 (US) \nGA:empty");
+    });
+</script><script>
+        require(["globals"], function(RT) {
+            var invokeAds = function() {
+                mps.writeFooter && mps.writeFooter();
+            };
+            if ('undefined' !== typeof Promise) {
+                Promise.all(RT.adPromises).then(invokeAds);
+            } else {
+                require(["rsvp"], function(RSVP) {
+                    RSVP.all(RT.adPromises).then(invokeAds);
+                });
+            }
+        });
+    </script>
+
+    <script type='text/javascript'>
+        var _sf_async_config = _sf_async_config || {};
+        /** CONFIGURATION START **/
+        _sf_async_config.sections = "movie";
+        _sf_async_config.authors = 'rt-staff'; 
+
+        /** CONFIGURATION END **/
+        (function() {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat_video.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                    loadChartbeat : function() {
+                oldonload();
+                loadChartbeat();
+            };
+        })();
+    </script>
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+    
+    <script>console.info("body-bottom" + window.performance.now());</script>
+</body>
+</html>
+

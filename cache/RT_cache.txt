@@ -1,0 +1,193 @@
+{"title": "Mostly Martha (Bella Martha)", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 86, "genres": [""]}
+{"title": "Masculin Feminin", "year": 1966, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 40, "genres": [""]}
+{"title": "I've Loved You So Long", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 127, "genres": [""]}
+{"title": "The Song of Sparrows", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 42, "genres": [""]}
+{"title": "Y Tu Mama Tambien", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 138, "genres": [""]}
+{"title": "Promises", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 47, "genres": [""]}
+{"title": "The Son (Le Fils)", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 59, "genres": [""]}
+{"title": "Italian for Beginners", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 86, "genres": [""]}
+{"title": "Tango and Cash", "year": 1989, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 30, "RTreviews": 47, "genres": [""]}
+{"title": "Poetry", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 72, "genres": [""]}
+{"title": "The Five Obstructions", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 61, "genres": [""]}
+{"title": "Aim\u00e9e & Jaguar", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 48, "genres": [""]}
+{"title": "Broken Wings", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 68, "genres": [""]}
+{"title": "The Gleaners and I", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 43, "genres": [""]}
+{"title": "Exorcist: The Version You've Never Seen", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 82, "genres": [""]}
+{"title": "Ushpizin", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 63, "genres": [""]}
+{"title": "Together", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 81, "genres": [""]}
+{"title": "Born Into Brothels", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 108, "genres": [""]}
+{"title": "Ikiru", "year": 1956, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 43, "genres": [""]}
+{"title": "Love & Friendship", "year": 2016, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 208, "genres": [""]}
+{"title": "King of Devil's Island", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 49, "genres": [""]}
+{"title": "My Father and I", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 44, "genres": [""]}
+{"title": "Apocalypse Now Redux", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 83, "genres": [""]}
+{"title": "Evil Dead 2: Dead by Dawn", "year": 1987, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 60, "genres": [""]}
+{"title": "The Story of the Weeping Camel", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 103, "genres": [""]}
+{"title": "Summer 1993", "year": 2018, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 90, "genres": [""]}
+{"title": "Your Friends & Neighbors", "year": 1998, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 77, "RTreviews": 57, "genres": [""]}
+{"title": "Nico and Dani (Kr\u00e1mpack)", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 54, "genres": [""]}
+{"title": "No One Knows About Persian Cats", "year": 2010, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 61, "genres": [""]}
+{"title": "Lovely and Amazing", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 86, "RTreviews": 124, "genres": [""]}
+{"title": "Moscow, Belgium (Aanrijding in Moscou)", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 40, "genres": [""]}
+{"title": "Kandahar: Le soleil derri\u00e8re la lune", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 99, "genres": [""]}
+{"title": "Fireworks Wednesday", "year": 2016, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 44, "genres": [""]}
+{"title": "Live Die Repeat: Edge of Tomorrow", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 322, "genres": [""]}
+{"title": "Star Wars: The Last Jedi", "year": 2017, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 473, "genres": [""]}
+{"title": "With a Friend like Harry", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 93, "genres": [""]}
+{"title": "Red Cliff (Chi Bi)", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 117, "genres": [""]}
+{"title": "About Elly", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 70, "genres": [""]}
+{"title": "Of Gods and Men", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 120, "genres": [""]}
+{"title": "The Twilight Samurai", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 70, "genres": [""]}
+{"title": "Three Colors: White (Trois Couleurs: Blanc)", "year": 1994, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 47, "genres": [""]}
+{"title": "Bill and Ted's Excellent Adventure", "year": 1989, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 81, "RTreviews": 52, "genres": [""]}
+{"title": "Killer of Sheep", "year": 2007, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 80, "genres": [""]}
+{"title": "Kitchen Stories", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 74, "genres": [""]}
+{"title": "They Shall Not Grow Old", "year": 2019, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 149, "genres": [""]}
+{"title": "1984 Original", "year": 1984, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 73, "genres": [""]}
+{"title": "In & Out", "year": 1997, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 71, "RTreviews": 51, "genres": [""]}
+{"title": "12:08 East of Bucharest (A fost sau n-a fost?)", "year": 2007, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 47, "genres": [""]}
+{"title": "My Life as a Zucchini (Ma vie de courgette)", "year": 2017, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 137, "genres": [""]}
+{"title": "Mulholland Drive", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 83, "RTreviews": 180, "genres": [""]}
+{"title": "The Cook, the Thief, His Wife and Her Lover", "year": 1989, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 85, "RTreviews": 48, "genres": [""]}
+{"title": "Phoenix", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 128, "genres": [""]}
+{"title": "Dixie Chicks - Shut Up and Sing", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 124, "genres": [""]}
+{"title": "Your Friends and Neighbors", "year": 1998, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 77, "RTreviews": 57, "genres": [""]}
+{"title": "Maria Larssons eviga \u00f6gonblick (Everlasting Moments) (Maria Larsson's Everlasting Moment)", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 104, "genres": [""]}
+{"title": "Blue Is The Warmest Color", "year": 2013, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 193, "genres": [""]}
+{"title": "Last Days of Disco", "year": 1998, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 73, "RTreviews": 60, "genres": [""]}
+{"title": "Headhunters", "year": 2012, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 100, "genres": [""]}
+{"title": "Since Otar Left", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 56, "genres": [""]}
+{"title": "Three Colors: Red (Trois couleurs: Rouge)", "year": 1994, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 54, "genres": [""]}
+{"title": "Wake in Fright", "year": 2012, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 56, "genres": [""]}
+{"title": "The Four Times", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 54, "genres": [""]}
+{"title": "Oslo, August 31st", "year": 2012, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 70, "genres": [""]}
+{"title": "Wallace & Gromit: The Curse of the Were-Rabbit", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 184, "genres": [""]}
+{"title": "Rare Exports: A Christmas Tale", "year": 2010, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 105, "genres": [""]}
+{"title": "Woman at War", "year": 2019, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 115, "genres": [""]}
+{"title": "Look at Me", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 99, "genres": [""]}
+{"title": "The Adventures of Buckaroo Banzai", "year": 1984, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 68, "RTreviews": 40, "genres": [""]}
+{"title": "Bram Stoker's Dracula", "year": 1992, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 71, "RTreviews": 56, "genres": [""]}
+{"title": "In and Out", "year": 1997, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 71, "RTreviews": 51, "genres": [""]}
+{"title": "Eyes Without a Face", "year": 1962, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 55, "genres": [""]}
+{"title": "Blame It on Fidel", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 45, "genres": [""]}
+{"title": "Du Levande (You, The Living)", "year": 2007, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 42, "genres": [""]}
+{"title": "Amy", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 219, "genres": [""]}
+{"title": "Atanarjuat: The Fast Runner (Atanarjuat)", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 98, "genres": [""]}
+{"title": "Tokyo Sonata (Tokyo Sonata)", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 88, "genres": [""]}
+{"title": "Girl on the Bridge", "year": 1999, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 41, "genres": [""]}
+{"title": "The Cave of the Yellow Dog", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 50, "genres": [""]}
+{"title": "Grbavica", "year": 2007, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 44, "genres": [""]}
+{"title": "The Witch", "year": 2016, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 325, "genres": [""]}
+{"title": "Playtime", "year": 1973, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 49, "genres": [""]}
+{"title": "Rififi (Du Rififi Chez les Hommes)", "year": 1956, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 51, "genres": [""]}
+{"title": "Diabolique (Les Diaboliques)", "year": 1955, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 46, "genres": [""]}
+{"title": "Solaris", "year": 1976, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 61, "genres": [""]}
+{"title": "The Man on the Train", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 115, "genres": [""]}
+{"title": "McCabe and Mrs. Miller", "year": 1971, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 85, "RTreviews": 54, "genres": [""]}
+{"title": "Weekend", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 85, "genres": [""]}
+{"title": "Bright Lights: Starring Carrie Fisher and Debbie Reynolds", "year": 2017, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 57, "genres": [""]}
+{"title": "The Widow of Saint-Pierre", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 77, "genres": [""]}
+{"title": "Twelve Monkeys (12 Monkeys)", "year": 1995, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 70, "genres": [""]}
+{"title": "Interview with the Vampire", "year": 1994, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 63, "RTreviews": 54, "genres": [""]}
+{"title": "Like Water for Chocolate", "year": 1992, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 46, "genres": [""]}
+{"title": "101 Dalmatians", "year": 1961, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 51, "genres": [""]}
+{"title": "Cell 211", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 44, "genres": [""]}
+{"title": "Godzilla", "year": 1954, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 74, "genres": [""]}
+{"title": "Seven", "year": 1995, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 82, "RTreviews": 76, "genres": [""]}
+{"title": "La Femme Nikita (Nikita)", "year": 1990, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 43, "genres": [""]}
+{"title": "Contact", "year": 1997, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 65, "RTreviews": 66, "genres": [""]}
+{"title": "The Young Girls of Rochefort (Les Demoiselles de Rochefort)", "year": 1968, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 44, "genres": [""]}
+{"title": "GETT: The Trial of Viviane Amsalem", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 78, "genres": [""]}
+{"title": "Eureka", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 43, "genres": [""]}
+{"title": "Ernest and C\u00e9lestine", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 80, "genres": [""]}
+{"title": "101 Reykjavik", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 47, "genres": [""]}
+{"title": "Mother", "year": 1996, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 42, "genres": [""]}
+{"title": "The 400 Blows (Les Quatre cents coups)", "year": 1959, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 62, "genres": [""]}
+{"title": "Precious: Based on the Novel Push by Sapphire", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 236, "genres": [""]}
+{"title": "Not One Less", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 45, "genres": [""]}
+{"title": "Benny and Joon", "year": 1993, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 76, "RTreviews": 41, "genres": [""]}
+{"title": "The Old Man & the Gun", "year": 2018, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 267, "genres": [""]}
+{"title": "Brand Upon the Brain", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 58, "genres": [""]}
+{"title": "Antonia (Antonia's Line)", "year": 1995, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 67, "RTreviews": 49, "genres": [""]}
+{"title": "Les Miserables", "year": 1998, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 74, "RTreviews": 43, "genres": [""]}
+{"title": "Triad Election", "year": 2007, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 48, "genres": [""]}
+{"title": "Gloria", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 128, "genres": [""]}
+{"title": "Three Colors: Blue (Trois Couleurs: Bleu)", "year": 1993, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 46, "genres": [""]}
+{"title": "Stan and Ollie", "year": 2019, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 219, "genres": [""]}
+{"title": "Love and Friendship", "year": 2016, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 208, "genres": [""]}
+{"title": "Alien: The Director's Cut", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 49, "genres": [""]}
+{"title": "Tristram Shandy: A Cock & Bull Story", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 129, "genres": [""]}
+{"title": "The Road Home", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 80, "genres": [""]}
+{"title": "Sunset Boulevard", "year": 1950, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 69, "genres": [""]}
+{"title": "Le pass\u00e9 (The Past)", "year": 2013, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 154, "genres": [""]}
+{"title": "This Is Not a Film", "year": 2012, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 101, "genres": [""]}
+{"title": "Werckmeister Harmonies", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 40, "genres": [""]}
+{"title": "Hellboy II: The Golden Army (Hellboy 2)", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 86, "RTreviews": 249, "genres": [""]}
+{"title": "Jafar Panahi's Taxi", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 105, "genres": [""]}
+{"title": "Chuck and Buck", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 84, "RTreviews": 88, "genres": [""]}
+{"title": "Chavez: Inside the Coup", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 47, "genres": [""]}
+{"title": "Tony Takitani", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 56, "genres": [""]}
+{"title": "Princess Mononoke (Mononoke-hime)", "year": 1999, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 110, "genres": [""]}
+{"title": "The Sun", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 42, "genres": [""]}
+{"title": "Jackie", "year": 2016, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 348, "genres": [""]}
+{"title": "Ash Is Purest White", "year": 2019, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 152, "genres": [""]}
+{"title": "Ziggy Stardust and the Spiders from Mars", "year": 1973, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 73, "RTreviews": 40, "genres": [""]}
+{"title": "Oliver and Company", "year": 1988, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 50, "RTreviews": 50, "genres": [""]}
+{"title": "Shaolin Soccer", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 93, "genres": [""]}
+{"title": "Bill and Ted's Bogus Journey", "year": 1991, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 57, "RTreviews": 53, "genres": [""]}
+{"title": "Aguirre, the Wrath of God (Aguirre, der Zorn Gottes)", "year": 1972, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 49, "genres": [""]}
+{"title": "Ernest & C\u00e9lestine", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 80, "genres": [""]}
+{"title": "Mary Shelley's Frankenstein", "year": 1994, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 38, "RTreviews": 45, "genres": [""]}
+{"title": "Thelma and Louise", "year": 1991, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 84, "RTreviews": 70, "genres": [""]}
+{"title": "Tea With the Dames (Nothing Like a Dame)", "year": 2018, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 85, "genres": [""]}
+{"title": "The Old Man and the Gun", "year": 2018, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 93, "RTreviews": 267, "genres": [""]}
+{"title": "Plagues and Pleasures on the Salton Sea", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 53, "genres": [""]}
+{"title": "Dig", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 75, "genres": [""]}
+{"title": "Cinema Paradiso (Nuovo Cinema Paradiso)", "year": 1988, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 77, "genres": [""]}
+{"title": "Bus 174", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 78, "genres": [""]}
+{"title": "The Loved Ones", "year": 2012, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 57, "genres": [""]}
+{"title": "Hero", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 208, "genres": [""]}
+{"title": "Tristram Shandy: A Cock and Bull Story", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 89, "RTreviews": 129, "genres": [""]}
+{"title": "End of the Century: The Story of the Ramones", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 62, "genres": [""]}
+{"title": "Pierrot le Fou (Pierrot Goes Wild) (Crazy Pete)", "year": 1969, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 85, "RTreviews": 41, "genres": [""]}
+{"title": "Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers", "year": 2009, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 56, "genres": [""]}
+{"title": "Lilo and Stitch", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 86, "RTreviews": 147, "genres": [""]}
+{"title": "Central Station (Central do Brasil)", "year": 1998, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 48, "genres": [""]}
+{"title": "Rivers and Tides: Andy Goldsworthy Working With Time", "year": 2002, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 71, "genres": [""]}
+{"title": "The Truth About Cats and Dogs", "year": 1996, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 85, "RTreviews": 47, "genres": [""]}
+{"title": "3 And 1/2 Minutes, 10 Bullets", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 47, "genres": [""]}
+{"title": "Burma VJ: Reporter i et Lukket Land (Burma VJ: Reporting from a Closed Country)", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 62, "genres": [""]}
+{"title": "Teenage Mutant Ninja Turtles: The Movie", "year": 1990, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 40, "RTreviews": 52, "genres": [""]}
+{"title": "Andrei Rublev", "year": 1973, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 42, "genres": [""]}
+{"title": "A Summer's Tale", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 47, "genres": [""]}
+{"title": "Duck Season", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 76, "genres": [""]}
+{"title": "Kurt Cobain: Montage Of Heck", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 97, "RTreviews": 94, "genres": [""]}
+{"title": "Gonzo: The Life and Work of Hunter S. Thompson", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 98, "genres": [""]}
+{"title": "To the Sea", "year": 2010, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 47, "genres": [""]}
+{"title": "Supercop", "year": 1996, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 49, "genres": [""]}
+{"title": "Nosferatu: Phantom der Nacht (Nosferatu the Vampyre)", "year": 1979, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 58, "genres": [""]}
+{"title": "20 Feet From Stardom", "year": 2013, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 99, "RTreviews": 125, "genres": [""]}
+{"title": "Aim\u00e9e and Jaguar", "year": 2000, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 48, "genres": [""]}
+{"title": "The Lord of the Rings", "year": 1978, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 52, "RTreviews": 42, "genres": [""]}
+{"title": "Wallace and Gromit: The Curse of the Were-Rabbit", "year": 2005, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 184, "genres": [""]}
+{"title": "American Experience", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 94, "RTreviews": 49, "genres": [""]}
+{"title": "Iron Monkey", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 95, "genres": [""]}
+{"title": "Plagues & Pleasures on the Salton Sea", "year": 2004, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 53, "genres": [""]}
+{"title": "Jane", "year": 2017, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 106, "genres": [""]}
+{"title": "Iris", "year": 2015, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 99, "genres": [""]}
+{"title": "Rudyard Kipling's The Jungle Book", "year": 1994, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 80, "RTreviews": 41, "genres": [""]}
+{"title": "24 City", "year": 2008, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 91, "RTreviews": 43, "genres": [""]}
+{"title": "Frank", "year": 2014, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 163, "genres": [""]}
+{"title": "12 Angry Men (Twelve Angry Men)", "year": 1957, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 100, "RTreviews": 54, "genres": [""]}
+{"title": "Silent Souls", "year": 2011, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 96, "RTreviews": 47, "genres": [""]}
+{"title": "Tuya's Marriage", "year": 2006, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 95, "RTreviews": 40, "genres": [""]}
+{"title": "Willy Wonka and the Chocolate Factory", "year": 1971, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 90, "RTreviews": 48, "genres": [""]}
+{"title": "Intimate Strangers", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 86, "RTreviews": 104, "genres": [""]}
+{"title": "Stan & Ollie", "year": 2019, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 92, "RTreviews": 219, "genres": [""]}
+{"title": "Dead Alive", "year": 1993, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 42, "genres": [""]}
+{"title": "The Day I Became a Woman", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 58, "genres": [""]}
+{"title": "Gun Crazy (Deadly Is the Female)", "year": 1950, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 40, "genres": [""]}
+{"title": "The Passenger", "year": 1975, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 74, "genres": [""]}
+{"title": "Zat\u00f4ichi (The Blind Swordsman: Zatoichi)", "year": 2003, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 87, "RTreviews": 127, "genres": [""]}
+{"title": "La Cienaga", "year": 2001, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 88, "RTreviews": 43, "genres": [""]}
+{"title": "Quest", "year": 2017, "IMDBrating": 0.0, "IMDBvotes": 0, "RTrating": 98, "RTreviews": 60, "genres": [""]}

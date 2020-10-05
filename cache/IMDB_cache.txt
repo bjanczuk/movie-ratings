@@ -1,0 +1,79 @@
+{"title": "8\u00bd", "year": 1963, "IMDBrating": 8.0, "IMDBvotes": 106794, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Yedinci Kogustaki Mucize", "year": 2019, "IMDBrating": 8.3, "IMDBvotes": 29552, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Hera Pheri", "year": 2000, "IMDBrating": 8.2, "IMDBvotes": 55300, "RTrating": 0, "RTreviews": 0, "genres": ["crime", "comedy", "action"]}
+{"title": "Kahaani", "year": 2012, "IMDBrating": 8.1, "IMDBvotes": 56644, "RTrating": 0, "RTreviews": 0, "genres": ["mystery", "thriller"]}
+{"title": "Evil Dead II", "year": 1987, "IMDBrating": 7.8, "IMDBvotes": 145110, "RTrating": 0, "RTreviews": 0, "genres": ["fantasy", "comedy", "action"]}
+{"title": "Vivre Sa Vie", "year": 1962, "IMDBrating": 8.0, "IMDBvotes": 27018, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Le D\u00eener de Cons", "year": 1998, "IMDBrating": 7.7, "IMDBvotes": 36729, "RTrating": 0, "RTreviews": 0, "genres": ["comedy"]}
+{"title": "Robin Hood", "year": 1973, "IMDBrating": 7.6, "IMDBvotes": 113163, "RTrating": 0, "RTreviews": 0, "genres": ["animation", "comedy", "adventure"]}
+{"title": "Three Colors: Red", "year": 1994, "IMDBrating": 8.1, "IMDBvotes": 88270, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "mystery", "romance"]}
+{"title": "Lage Raho Munna Bhai", "year": 2006, "IMDBrating": 8.1, "IMDBvotes": 42129, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance", "comedy"]}
+{"title": "Babam ve Oglum", "year": 2005, "IMDBrating": 8.3, "IMDBvotes": 76528, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "family"]}
+{"title": "Death Note: Desu n\u00f4to", "year": 2006, "IMDBrating": 7.7, "IMDBvotes": 28255, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "fantasy", "crime"]}
+{"title": "The Body", "year": 2012, "IMDBrating": 7.6, "IMDBvotes": 54996, "RTrating": 0, "RTreviews": 0, "genres": ["mystery", "thriller"]}
+{"title": "Elite Squad 2: The Enemy Within", "year": 2010, "IMDBrating": 8.0, "IMDBvotes": 78330, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "crime", "action"]}
+{"title": "The Avengers", "year": 2012, "IMDBrating": 8.0, "IMDBvotes": 1243894, "RTrating": 0, "RTreviews": 0, "genres": ["sci", "adventure", "action"]}
+{"title": "Neon Genesis Evangelion: The End of Evangelion", "year": 1997, "IMDBrating": 8.1, "IMDBvotes": 36817, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "action"]}
+{"title": "Udaan", "year": 2010, "IMDBrating": 8.2, "IMDBvotes": 41704, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Il Postino", "year": 1994, "IMDBrating": 7.7, "IMDBvotes": 32960, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "comedy"]}
+{"title": "Les yeux sans visage", "year": 1960, "IMDBrating": 7.7, "IMDBvotes": 26419, "RTrating": 0, "RTreviews": 0, "genres": ["horror", "drama"]}
+{"title": "Talvar", "year": 2015, "IMDBrating": 8.2, "IMDBvotes": 30146, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "mystery", "crime"]}
+{"title": "Castle in the Sky", "year": 1986, "IMDBrating": 8.0, "IMDBvotes": 146033, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "adventure"]}
+{"title": "Paprika", "year": 2006, "IMDBrating": 7.7, "IMDBvotes": 68971, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "fantasy"]}
+{"title": "A Silent Voice: The Movie", "year": 2016, "IMDBrating": 8.1, "IMDBvotes": 41800, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "family"]}
+{"title": "Blue Is the Warmest Colour", "year": 2013, "IMDBrating": 7.7, "IMDBvotes": 135851, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance"]}
+{"title": "Ayla: The Daughter of War", "year": 2017, "IMDBrating": 8.4, "IMDBvotes": 32497, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "history"]}
+{"title": "Queen", "year": 2013, "IMDBrating": 8.2, "IMDBvotes": 59721, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "comedy", "adventure"]}
+{"title": "Withnail & I", "year": 1987, "IMDBrating": 7.7, "IMDBvotes": 39543, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "comedy"]}
+{"title": "X: First Class", "year": 2011, "IMDBrating": 7.7, "IMDBvotes": 638191, "RTrating": 0, "RTreviews": 0, "genres": ["sci", "adventure", "action"]}
+{"title": "Interstate 60: Episodes of the Road", "year": 2002, "IMDBrating": 7.7, "IMDBvotes": 29457, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "comedy", "adventure"]}
+{"title": "Andrei Rublev", "year": 1966, "IMDBrating": 8.1, "IMDBvotes": 45110, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "history"]}
+{"title": "A Wednesday", "year": 2008, "IMDBrating": 8.1, "IMDBvotes": 72799, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "crime", "action"]}
+{"title": "The Secret World of Arrietty", "year": 2010, "IMDBrating": 7.6, "IMDBvotes": 78077, "RTrating": 0, "RTreviews": 0, "genres": ["animation", "family", "adventure"]}
+{"title": "Cinema Paradiso", "year": 1988, "IMDBrating": 8.5, "IMDBvotes": 224287, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Jab We Met", "year": 2007, "IMDBrating": 7.9, "IMDBvotes": 46602, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance", "comedy"]}
+{"title": "Three Colors: White", "year": 1994, "IMDBrating": 7.6, "IMDBvotes": 62259, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance", "comedy"]}
+{"title": "Paan Singh Tomar", "year": 2012, "IMDBrating": 8.2, "IMDBvotes": 32531, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "crime", "action"]}
+{"title": "La Vie En Rose", "year": 2007, "IMDBrating": 7.6, "IMDBvotes": 81555, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "music"]}
+{"title": "Nefes: Vatan Sagolsun", "year": 2009, "IMDBrating": 8.0, "IMDBvotes": 31299, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "thriller", "action"]}
+{"title": "Whisper of the Heart", "year": 1995, "IMDBrating": 7.9, "IMDBvotes": 49394, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "family"]}
+{"title": "Cries & Whispers", "year": 1972, "IMDBrating": 8.1, "IMDBvotes": 29303, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Porco Rosso", "year": 1992, "IMDBrating": 7.7, "IMDBvotes": 74710, "RTrating": 0, "RTreviews": 0, "genres": ["animation", "comedy", "adventure"]}
+{"title": "Willy Wonka & the Chocolate Factory", "year": 1971, "IMDBrating": 7.8, "IMDBvotes": 174672, "RTrating": 0, "RTreviews": 0, "genres": ["family", "fantasy", "musical"]}
+{"title": "Le Samoura\u00ef", "year": 1967, "IMDBrating": 8.1, "IMDBvotes": 44184, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "mystery", "crime"]}
+{"title": "Anand", "year": 1971, "IMDBrating": 8.5, "IMDBvotes": 28598, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "musical"]}
+{"title": "Knockin' on Heaven's Door", "year": 1997, "IMDBrating": 8.0, "IMDBvotes": 27116, "RTrating": 0, "RTreviews": 0, "genres": ["crime", "comedy", "action"]}
+{"title": "Lupin the 3rd: Castle of Cagliostro", "year": 1979, "IMDBrating": 7.7, "IMDBvotes": 26066, "RTrating": 0, "RTreviews": 0, "genres": ["animation", "family", "adventure"]}
+{"title": "La Haine", "year": 1995, "IMDBrating": 8.1, "IMDBvotes": 145392, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "crime"]}
+{"title": "Vizontele", "year": 2001, "IMDBrating": 8.0, "IMDBvotes": 32460, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "comedy"]}
+{"title": "Vicky Donor", "year": 2012, "IMDBrating": 7.8, "IMDBvotes": 38997, "RTrating": 0, "RTreviews": 0, "genres": ["romance", "comedy"]}
+{"title": "Duck You Sucker", "year": 1971, "IMDBrating": 7.6, "IMDBvotes": 29455, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "western", "war"]}
+{"title": "G.O.R.A", "year": 2004, "IMDBrating": 8.0, "IMDBvotes": 55352, "RTrating": 0, "RTreviews": 0, "genres": ["sci", "adventure", "comedy"]}
+{"title": "The Message", "year": 1976, "IMDBrating": 8.2, "IMDBvotes": 43062, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "history"]}
+{"title": "Wolf Children", "year": 2012, "IMDBrating": 8.1, "IMDBvotes": 37416, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "family"]}
+{"title": "Se7en", "year": 1995, "IMDBrating": 8.6, "IMDBvotes": 1408073, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "mystery", "crime"]}
+{"title": "Dil Chahta Hai", "year": 2001, "IMDBrating": 8.1, "IMDBvotes": 65676, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance", "comedy"]}
+{"title": "Hachi: A Dog's Tale", "year": 2009, "IMDBrating": 8.1, "IMDBvotes": 246930, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "family"]}
+{"title": "Dev.D", "year": 2009, "IMDBrating": 8.0, "IMDBvotes": 28290, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance"]}
+{"title": "The Double Life of V\u00e9ronique", "year": 1991, "IMDBrating": 7.8, "IMDBvotes": 40864, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "fantasy", "music"]}
+{"title": "The Fall", "year": 2006, "IMDBrating": 7.9, "IMDBvotes": 106084, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "fantasy", "adventure"]}
+{"title": "Secrets & Lies", "year": 1996, "IMDBrating": 8.0, "IMDBvotes": 36630, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "comedy"]}
+{"title": "Dangal", "year": 2016, "IMDBrating": 8.4, "IMDBvotes": 149128, "RTrating": 0, "RTreviews": 0, "genres": ["biography", "drama", "action"]}
+{"title": "The Bandit", "year": 1996, "IMDBrating": 8.2, "IMDBvotes": 62265, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "thriller", "crime"]}
+{"title": "Dilwale Dulhania Le Jayenge", "year": 1995, "IMDBrating": 8.1, "IMDBvotes": 62110, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance"]}
+{"title": "La Strada", "year": 1954, "IMDBrating": 8.0, "IMDBvotes": 57147, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "Celda 211", "year": 2009, "IMDBrating": 7.6, "IMDBvotes": 63041, "RTrating": 0, "RTreviews": 0, "genres": ["adventure", "crime", "action"]}
+{"title": "The Wave", "year": 2008, "IMDBrating": 7.6, "IMDBvotes": 101018, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "thriller"]}
+{"title": "Ivan's Childhood", "year": 1962, "IMDBrating": 8.1, "IMDBvotes": 30448, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "war"]}
+{"title": "5 Centimeters Per Second", "year": 2007, "IMDBrating": 7.6, "IMDBvotes": 49534, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "animation", "family"]}
+{"title": "Three Colors: Blue", "year": 1993, "IMDBrating": 7.9, "IMDBvotes": 86919, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "mystery", "music"]}
+{"title": "Munna Bhai M.B.B.S", "year": 2003, "IMDBrating": 8.1, "IMDBvotes": 72257, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "musical", "comedy"]}
+{"title": "Ying xiong", "year": 2002, "IMDBrating": 7.9, "IMDBvotes": 172397, "RTrating": 0, "RTreviews": 0, "genres": ["adventure", "history", "action"]}
+{"title": "Capharna\u00fcm", "year": 2018, "IMDBrating": 8.4, "IMDBvotes": 55027, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "OMG: Oh My God", "year": 2012, "IMDBrating": 8.1, "IMDBvotes": 50103, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "fantasy", "comedy"]}
+{"title": "Y Tu Mam\u00e1 Tambi\u00e9n", "year": 2001, "IMDBrating": 7.6, "IMDBvotes": 113986, "RTrating": 0, "RTreviews": 0, "genres": ["drama"]}
+{"title": "The Man from Nowhere", "year": 2010, "IMDBrating": 7.8, "IMDBvotes": 61236, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "crime", "action"]}
+{"title": "My Sassy Girl", "year": 2001, "IMDBrating": 8.0, "IMDBvotes": 44797, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "romance", "comedy"]}
+{"title": "The Man from Earth", "year": 2007, "IMDBrating": 7.9, "IMDBvotes": 171215, "RTrating": 0, "RTreviews": 0, "genres": ["sci", "drama", "fantasy"]}
+{"title": "Andaz Apna Apna", "year": 1994, "IMDBrating": 8.2, "IMDBvotes": 48509, "RTrating": 0, "RTreviews": 0, "genres": ["romance", "comedy"]}
+{"title": "Joyeux Noel", "year": 2005, "IMDBrating": 7.7, "IMDBvotes": 27187, "RTrating": 0, "RTreviews": 0, "genres": ["drama", "music", "history"]}
